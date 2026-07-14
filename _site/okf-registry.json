@@ -1,0 +1,16 @@
+{
+  "bundles": [
+    {
+      "description": "The NMC Code, the Future Nurse proficiency platforms, and the SSSA as one cross-linked knowledge graph.",
+      "id": "https://nursingcitizendevelopment.com/okf/bundles/nmc-standards",
+      "kind": "local-sample",
+      "label": "NMC Standards",
+      "license": "https://www.nmc.org.uk/standards/",
+      "publisher": "Nursing Citizen Development CIC",
+      "status": "preview",
+      "title": "Open Nursing Knowledge Explorer",
+      "url": "./okf-bundle.json",
+      "version": "0.1.0"
+    }
+  ]
+}
