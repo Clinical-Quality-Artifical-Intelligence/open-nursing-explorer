@@ -19,8 +19,9 @@ Theme: [Promote Professionalism and Trust](theme-4-promote-professionalism-and-t
 - **23.4** Tell the NMC and employers if disciplined by any regulatory body
 - **23.5** Give your NMC Pin when reasonably requested
 
-## Assessed through
-- [Platform 6: Improving safety and quality of care](../platforms/platform-6.md)
+## Textual cross-references (proficiency statements)
+Not an official NMC crosswalk — computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).
+- [Platform 6: Improving safety and quality of care](../platforms/platform-6.md) — **6.10** ("audit"), **6.8** ("audit")
 
 ## Key concepts
 - [Fitness to practise](../glossary/fitness-to-practise.md)

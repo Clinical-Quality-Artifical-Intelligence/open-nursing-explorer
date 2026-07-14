@@ -17,8 +17,9 @@ Theme: [Promote Professionalism and Trust](theme-4-promote-professionalism-and-t
 - **22.2** Keep to prescribed hours of practice and carry out CPD activities
 - **22.3** Keep your knowledge and skills up to date
 
-## Assessed through
-- [Platform 1: Being an accountable professional](../platforms/platform-1.md)
+## Textual cross-references (proficiency statements)
+Not an official NMC crosswalk — computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).
+- [Platform 1: Being an accountable professional](../platforms/platform-1.md) — **1.1** ("registration requirements")
 
 ## Key concepts
 - [Revalidation](../glossary/revalidation.md)

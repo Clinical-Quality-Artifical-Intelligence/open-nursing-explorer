@@ -24,11 +24,15 @@ At the point of registration, the registered nurse will be able to:
 - **5.11** Effectively and responsibly use a range of digital technologies to access, input, share and apply information and data within teams and between agencies
 - **5.12** Understand the mechanisms that can be used to influence organisational change and public policy to support quality improvement and sustainability in health and care
 
-## Related Code sections
-- [Code section 8](../code/section-08.md)
-- [Code section 9](../code/section-09.md)
-- [Code section 11](../code/section-11.md)
-- [Code section 25](../code/section-25.md)
+## Textual cross-references (Code sections)
+Not an official NMC crosswalk — computed by matching shared wording between proficiency statement text and Code section text. See [methodology](../index.md#how-the-code-crossreference-works).
+- [Code section 9](../code/section-09.md) — **5.8** ("constructive feedback"), **5.9** ("constructive feedback")
+- [Code section 11](../code/section-11.md) — **5.5** ("delegation")
+- [Code section 19](../code/section-19.md) — **5.2** ("human factors")
+- [Code section 25](../code/section-25.md) — **5.1** ("leadership"), **5.6** ("leadership")
+
+## Skills required
+Demonstrated through [Annexe A](../annexes/annexe-a.md) (communication and relationship management skills) and [Annexe B](../annexes/annexe-b.md) (nursing procedures) — see proficiency 1.20.
 
 ## Assessment
 Achievement is assessed in practice under the [Standards for Student Supervision and Assessment](../sssa/index.md).

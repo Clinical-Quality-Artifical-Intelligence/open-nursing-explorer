@@ -17,9 +17,11 @@ Theme: [Preserve Safety](theme-3-preserve-safety.md)
 - **17.2** Share information if you believe someone may be at risk of harm
 - **17.3** Have knowledge of and keep to the relevant laws about protecting vulnerable people
 
-## Assessed through
-- [Platform 3: Assessing needs and planning care](../platforms/platform-3.md)
-- [Platform 6: Improving safety and quality of care](../platforms/platform-6.md)
+## Textual cross-references (proficiency statements)
+Not an official NMC crosswalk — computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).
+- [Platform 3: Assessing needs and planning care](../platforms/platform-3.md) — **3.9** ("vulnerable")
+- [Platform 4: Providing and evaluating care](../platforms/platform-4.md) — **4.10** ("safeguarding"), **4.11** ("vulnerable")
+- [Platform 6: Improving safety and quality of care](../platforms/platform-6.md) — **6.12** ("safeguarding")
 
 ## Key concepts
 - [Safeguarding](../glossary/safeguarding.md)

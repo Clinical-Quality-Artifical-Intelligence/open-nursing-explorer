@@ -17,9 +17,9 @@ Theme: [Preserve Safety](theme-3-preserve-safety.md)
 - **14.2** Explain fully and promptly what has happened and apologise
 - **14.3** Document all events formally and escalate if appropriate
 
-## Assessed through
-- [Platform 1: Being an accountable professional](../platforms/platform-1.md)
-- [Platform 6: Improving safety and quality of care](../platforms/platform-6.md)
+## Textual cross-references (proficiency statements)
+Not an official NMC crosswalk — computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).
+- [Platform 1: Being an accountable professional](../platforms/platform-1.md) — **1.3** ("candour")
 
 ## Key concepts
 - [Duty of candour](../glossary/duty-of-candour.md)

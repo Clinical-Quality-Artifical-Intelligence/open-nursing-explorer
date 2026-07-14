@@ -19,5 +19,6 @@ Theme: [Practise Effectively](theme-2-practise-effectively.md)
 - **7.4** Check people's understanding from time to time
 - **7.5** Be able to communicate clearly and effectively in English
 
-## Assessed through
-- [Platform 7: Coordinating care](../platforms/platform-7.md)
+## Textual cross-references (proficiency statements)
+Not an official NMC crosswalk — computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).
+- [Platform 2: Promoting health and preventing ill health](../platforms/platform-2.md) — **2.9** ("communication skills")

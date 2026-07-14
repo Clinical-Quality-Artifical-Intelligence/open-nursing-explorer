@@ -24,5 +24,7 @@ Theme: [Promote Professionalism and Trust](theme-4-promote-professionalism-and-t
 - **20.9** Maintain the level of health you need for your professional role
 - **20.10** Use all forms of communication responsibly, including social media
 
-## Assessed through
-- [Platform 1: Being an accountable professional](../platforms/platform-1.md)
+## Textual cross-references (proficiency statements)
+Not an official NMC crosswalk — computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).
+- [Platform 4: Providing and evaluating care](../platforms/platform-4.md) — **4.1** ("role model")
+- [Platform 6: Improving safety and quality of care](../platforms/platform-6.md) — **6.4** ("role model")

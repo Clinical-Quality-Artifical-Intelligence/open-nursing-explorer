@@ -24,13 +24,18 @@ At the point of registration, the registered nurse will be able to:
 - **6.11** Manage risks to public protection, recognising the critical importance of accurate record keeping, and the need to use the available evidence base to inform care decisions
 - **6.12** Understand the role of registered nurses and others to identify, assess and respond to actual or potential safeguarding situations
 
-## Related Code sections
-- [Code section 14](../code/section-14.md)
-- [Code section 16](../code/section-16.md)
-- [Code section 17](../code/section-17.md)
-- [Code section 19](../code/section-19.md)
-- [Code section 23](../code/section-23.md)
-- [Code section 24](../code/section-24.md)
+## Textual cross-references (Code sections)
+Not an official NMC crosswalk — computed by matching shared wording between proficiency statement text and Code section text. See [methodology](../index.md#how-the-code-crossreference-works).
+- [Code section 6](../code/section-06.md) — **6.11** ("evidence base"), **6.4** ("evidence-based"), **6.9** ("evidence-based")
+- [Code section 10](../code/section-10.md) — **6.11** ("record keeping")
+- [Code section 16](../code/section-16.md) — **6.11** ("public protection"), **6.2** ("public protection")
+- [Code section 17](../code/section-17.md) — **6.12** ("safeguarding")
+- [Code section 19](../code/section-19.md) — **6.6** ("near misses")
+- [Code section 20](../code/section-20.md) — **6.4** ("role model")
+- [Code section 23](../code/section-23.md) — **6.10** ("audit"), **6.8** ("audit")
+
+## Skills required
+Demonstrated through [Annexe A](../annexes/annexe-a.md) (communication and relationship management skills) and [Annexe B](../annexes/annexe-b.md) (nursing procedures) — see proficiency 1.20.
 
 ## Assessment
 Achievement is assessed in practice under the [Standards for Student Supervision and Assessment](../sssa/index.md).

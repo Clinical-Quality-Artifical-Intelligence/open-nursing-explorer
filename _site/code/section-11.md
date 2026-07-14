@@ -17,8 +17,9 @@ Theme: [Practise Effectively](theme-2-practise-effectively.md)
 - **11.2** Make sure everyone you delegate to is adequately supervised and supported
 - **11.3** Confirm that the outcome of any delegated task meets the required standard
 
-## Assessed through
-- [Platform 5: Leading and managing nursing care and working in teams](../platforms/platform-5.md)
+## Textual cross-references (proficiency statements)
+Not an official NMC crosswalk — computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).
+- [Platform 5: Leading and managing nursing care and working in teams](../platforms/platform-5.md) — **5.5** ("delegation")
 
 ## Key concepts
 - [Delegation](../glossary/delegation.md)

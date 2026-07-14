@@ -28,13 +28,15 @@ At the point of registration, the registered nurse will be able to:
 - **3.15** Demonstrate the ability to work in partnership with people, families and carers
 - **3.16** Demonstrate knowledge of when and how to refer people safely to other professionals or services for clinical intervention or support
 
-## Related Code sections
-- [Code section 2](../code/section-02.md)
-- [Code section 3](../code/section-03.md)
-- [Code section 4](../code/section-04.md)
-- [Code section 10](../code/section-10.md)
-- [Code section 13](../code/section-13.md)
-- [Code section 17](../code/section-17.md)
+## Textual cross-references (Code sections)
+Not an official NMC crosswalk — computed by matching shared wording between proficiency statement text and Code section text. See [methodology](../index.md#how-the-code-crossreference-works).
+- [Code section 4](../code/section-04.md) — **3.6** ("consent"), **3.8** ("mental capacity")
+- [Code section 6](../code/section-06.md) — **3.5** ("evidence-based")
+- [Code section 13](../code/section-13.md) — **3.16** ("refer")
+- [Code section 17](../code/section-17.md) — **3.9** ("vulnerable")
+
+## Skills required
+Demonstrated through [Annexe A](../annexes/annexe-a.md) (communication and relationship management skills) and [Annexe B](../annexes/annexe-b.md) (nursing procedures) — see proficiency 1.20.
 
 ## Assessment
 Achievement is assessed in practice under the [Standards for Student Supervision and Assessment](../sssa/index.md).

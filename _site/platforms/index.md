@@ -19,6 +19,6 @@ The seven platforms (NMC, 2018):
 - [Platform 6: Improving safety and quality of care](platform-6.md)
 - [Platform 7: Coordinating care](platform-7.md)
 
-Plus **Annexe A** (communication and relationship management skills) and **Annexe B** (nursing procedures).
+Plus **[Annexe A](../annexes/annexe-a.md)** (communication and relationship management skills) and **[Annexe B](../annexes/annexe-b.md)** (nursing procedures).
 
-Achievement is supervised and assessed under the [SSSA](../sssa/index.md). Every platform enacts sections of [the Code](../code/index.md). Back to the [explorer root](../index.md).
+Achievement is supervised and assessed under the [SSSA](../sssa/index.md). Every platform cross-references sections of [the Code](../code/index.md) — see the [methodology](../index.md#how-the-code-crossreference-works). Back to the [explorer root](../index.md).

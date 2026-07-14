@@ -16,6 +16,6 @@ Theme: [Promote Professionalism and Trust](theme-4-promote-professionalism-and-t
 - **25.1** Identify priorities, manage time, staff and resources effectively
 - **25.2** Support any staff you are responsible for to follow the Code at all times
 
-## Assessed through
-- [Platform 5: Leading and managing nursing care and working in teams](../platforms/platform-5.md)
-- [Platform 7: Coordinating care](../platforms/platform-7.md)
+## Textual cross-references (proficiency statements)
+Not an official NMC crosswalk — computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).
+- [Platform 5: Leading and managing nursing care and working in teams](../platforms/platform-5.md) — **5.1** ("leadership"), **5.6** ("leadership")

@@ -18,7 +18,9 @@ Theme: [Preserve Safety](theme-3-preserve-safety.md)
 - **19.3** Keep to recommended practice in relation to infection prevention and control
 - **19.4** Take all reasonable personal precautions to avoid health risks
 
-## Assessed through
-- [Platform 2: Promoting health and preventing ill health](../platforms/platform-2.md)
-- [Platform 4: Providing and evaluating care](../platforms/platform-4.md)
-- [Platform 6: Improving safety and quality of care](../platforms/platform-6.md)
+## Textual cross-references (proficiency statements)
+Not an official NMC crosswalk — computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).
+- [Platform 2: Promoting health and preventing ill health](../platforms/platform-2.md) — **2.12** ("infection prevention and control")
+- [Platform 5: Leading and managing nursing care and working in teams](../platforms/platform-5.md) — **5.2** ("human factors")
+- [Platform 6: Improving safety and quality of care](../platforms/platform-6.md) — **6.6** ("near misses")
+- [Platform 7: Coordinating care](../platforms/platform-7.md) — **7.3** ("human factors")

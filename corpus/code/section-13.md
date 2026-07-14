@@ -19,7 +19,6 @@ Theme: [Preserve Safety](theme-3-preserve-safety.md)
 - **13.4** Take account of your own personal safety as well as the safety of people in your care
 - **13.5** Complete the necessary training before carrying out a new role
 
-## Assessed through
-- [Platform 1: Being an accountable professional](../platforms/platform-1.md)
-- [Platform 3: Assessing needs and planning care](../platforms/platform-3.md)
-- [Platform 7: Coordinating care](../platforms/platform-7.md)
+## Textual cross-references (proficiency statements)
+Not an official NMC crosswalk — computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).
+- [Platform 3: Assessing needs and planning care](../platforms/platform-3.md) — **3.16** ("refer")

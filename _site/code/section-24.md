@@ -15,6 +15,3 @@ Theme: [Promote Professionalism and Trust](theme-4-promote-professionalism-and-t
 
 - **24.1** Never allow a complaint to affect the care provided
 - **24.2** Use all complaints as feedback and an opportunity for reflection and learning
-
-## Assessed through
-- [Platform 6: Improving safety and quality of care](../platforms/platform-6.md)

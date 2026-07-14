@@ -20,9 +20,10 @@ Theme: [Preserve Safety](theme-3-preserve-safety.md)
 - **16.5** Not obstruct anyone who wants to raise a concern
 - **16.6** Protect anyone you manage from harm after a concern is raised
 
-## Assessed through
-- [Platform 1: Being an accountable professional](../platforms/platform-1.md)
-- [Platform 6: Improving safety and quality of care](../platforms/platform-6.md)
+## Textual cross-references (proficiency statements)
+Not an official NMC crosswalk — computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).
+- [Platform 4: Providing and evaluating care](../platforms/platform-4.md) — **4.8** ("escalation")
+- [Platform 6: Improving safety and quality of care](../platforms/platform-6.md) — **6.11** ("public protection"), **6.2** ("public protection")
 
 ## Key concepts
 - [Raising concerns](../glossary/raising-concerns.md)

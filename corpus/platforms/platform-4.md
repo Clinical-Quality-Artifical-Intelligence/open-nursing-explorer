@@ -30,13 +30,18 @@ At the point of registration, the registered nurse will be able to:
 - **4.17** Demonstrate the skills required to provide basic and complex life support
 - **4.18** Demonstrate the ability to manage end-of-life care, implementing evidence-based approaches for the assessment and management of symptoms at the end of life
 
-## Related Code sections
-- [Code section 1](../code/section-01.md)
-- [Code section 2](../code/section-02.md)
-- [Code section 3](../code/section-03.md)
-- [Code section 6](../code/section-06.md)
-- [Code section 18](../code/section-18.md)
-- [Code section 19](../code/section-19.md)
+## Textual cross-references (Code sections)
+Not an official NMC crosswalk — computed by matching shared wording between proficiency statement text and Code section text. See [methodology](../index.md#how-the-code-crossreference-works).
+- [Code section 1](../code/section-01.md) — **4.1** ("dignity")
+- [Code section 2](../code/section-02.md) — **4.2** ("shared decision")
+- [Code section 6](../code/section-06.md) — **4.1** ("evidence-based"), **4.18** ("evidence-based"), **4.8** ("evidence-based")
+- [Code section 16](../code/section-16.md) — **4.8** ("escalation")
+- [Code section 17](../code/section-17.md) — **4.10** ("safeguarding"), **4.11** ("vulnerable")
+- [Code section 18](../code/section-18.md) — **4.13** ("medicines"), **4.14** ("medicines"), **4.15** ("medicines")
+- [Code section 20](../code/section-20.md) — **4.1** ("role model")
+
+## Skills required
+Demonstrated through [Annexe A](../annexes/annexe-a.md) (communication and relationship management skills) and [Annexe B](../annexes/annexe-b.md) (nursing procedures) — see proficiency 1.20.
 
 ## Assessment
 Achievement is assessed in practice under the [Standards for Student Supervision and Assessment](../sssa/index.md).

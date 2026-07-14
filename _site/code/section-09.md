@@ -18,5 +18,6 @@ Theme: [Practise Effectively](theme-2-practise-effectively.md)
 - **9.3** Deal with differences of professional opinion through discussion and informed debate
 - **9.4** Support students' and colleagues' learning
 
-## Assessed through
-- [Platform 5: Leading and managing nursing care and working in teams](../platforms/platform-5.md)
+## Textual cross-references (proficiency statements)
+Not an official NMC crosswalk — computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).
+- [Platform 5: Leading and managing nursing care and working in teams](../platforms/platform-5.md) — **5.8** ("constructive feedback"), **5.9** ("constructive feedback")

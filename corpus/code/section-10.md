@@ -20,6 +20,7 @@ Theme: [Practise Effectively](theme-2-practise-effectively.md)
 - **10.5** Take all steps to make sure records are kept securely
 - **10.6** Collect, treat and store all data and research findings appropriately
 
-## Assessed through
-- [Platform 1: Being an accountable professional](../platforms/platform-1.md)
-- [Platform 3: Assessing needs and planning care](../platforms/platform-3.md)
+## Textual cross-references (proficiency statements)
+Not an official NMC crosswalk — computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).
+- [Platform 1: Being an accountable professional](../platforms/platform-1.md) — **1.16** ("records")
+- [Platform 6: Improving safety and quality of care](../platforms/platform-6.md) — **6.11** ("record keeping")

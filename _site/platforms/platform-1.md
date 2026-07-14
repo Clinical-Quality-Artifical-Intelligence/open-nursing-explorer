@@ -32,16 +32,15 @@ At the point of registration, the registered nurse will be able to:
 - **1.19** Act as an ambassador for their profession and promote public confidence in nursing, health and care services
 - **1.20** Safely demonstrate evidence-based practice in all skills and procedures in Annexes A and B
 
-## Related Code sections
-- [Code section 1](../code/section-01.md)
-- [Code section 4](../code/section-04.md)
-- [Code section 6](../code/section-06.md)
-- [Code section 10](../code/section-10.md)
-- [Code section 13](../code/section-13.md)
-- [Code section 14](../code/section-14.md)
-- [Code section 16](../code/section-16.md)
-- [Code section 20](../code/section-20.md)
-- [Code section 22](../code/section-22.md)
+## Textual cross-references (Code sections)
+Not an official NMC crosswalk — computed by matching shared wording between proficiency statement text and Code section text. See [methodology](../index.md#how-the-code-crossreference-works).
+- [Code section 6](../code/section-06.md) — **1.20** ("evidence-based")
+- [Code section 10](../code/section-10.md) — **1.16** ("records")
+- [Code section 14](../code/section-14.md) — **1.3** ("candour")
+- [Code section 22](../code/section-22.md) — **1.1** ("registration requirements")
+
+## Skills required
+Demonstrated through [Annexe A](../annexes/annexe-a.md) (communication and relationship management skills) and [Annexe B](../annexes/annexe-b.md) (nursing procedures) — see proficiency 1.20.
 
 ## Assessment
 Achievement is assessed in practice under the [Standards for Student Supervision and Assessment](../sssa/index.md).

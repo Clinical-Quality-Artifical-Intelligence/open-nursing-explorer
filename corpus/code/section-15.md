@@ -16,3 +16,7 @@ Theme: [Preserve Safety](theme-3-preserve-safety.md)
 - **15.1** Only act in an emergency within the limits of your knowledge and competence
 - **15.2** Arrange for emergency care to be accessed and provided promptly
 - **15.3** Take account of your own safety and the availability of other options
+
+## Textual cross-references (proficiency statements)
+Not an official NMC crosswalk — computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).
+- [Platform 7: Coordinating care](../platforms/platform-7.md) — **7.6** ("emergency")

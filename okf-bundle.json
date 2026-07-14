@@ -3,6 +3,114 @@
     "nmc-standards": {
       "edges": [
         {
+          "kind": "links to",
+          "label": "links to",
+          "source": "annexes/annexe-a.md",
+          "target": "code/section-07.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "annexes/annexe-a.md",
+          "target": "code/section-10.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "annexes/annexe-a.md",
+          "target": "code/section-11.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "annexes/annexe-a.md",
+          "target": "code/section-14.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "annexes/annexe-a.md",
+          "target": "platforms/index.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "annexes/annexe-a.md",
+          "target": "platforms/platform-1.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "annexes/annexe-b.md",
+          "target": "code/section-01.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "annexes/annexe-b.md",
+          "target": "code/section-05.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "annexes/annexe-b.md",
+          "target": "code/section-17.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "annexes/annexe-b.md",
+          "target": "code/section-18.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "annexes/annexe-b.md",
+          "target": "code/section-19.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "annexes/annexe-b.md",
+          "target": "platforms/index.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "annexes/annexe-b.md",
+          "target": "platforms/platform-1.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "annexes/annexe-b.md",
+          "target": "platforms/platform-4.md"
+        },
+        {
+          "kind": "lists",
+          "label": "lists",
+          "source": "annexes/index.md",
+          "target": "annexes/annexe-a.md"
+        },
+        {
+          "kind": "lists",
+          "label": "lists",
+          "source": "annexes/index.md",
+          "target": "annexes/annexe-b.md"
+        },
+        {
+          "kind": "lists",
+          "label": "lists",
+          "source": "annexes/index.md",
+          "target": "index.md"
+        },
+        {
+          "kind": "lists",
+          "label": "lists",
+          "source": "annexes/index.md",
+          "target": "platforms/index.md"
+        },
+        {
           "kind": "lists",
           "label": "lists",
           "source": "code/index.md",
@@ -195,14 +303,14 @@
           "target": "glossary/person-centred-care.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
           "source": "code/section-01.md",
-          "target": "platforms/platform-1.md"
+          "target": "index.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-01.md",
           "target": "platforms/platform-4.md"
         },
@@ -219,20 +327,14 @@
           "target": "glossary/person-centred-care.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
           "source": "code/section-02.md",
-          "target": "platforms/platform-2.md"
+          "target": "index.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
-          "source": "code/section-02.md",
-          "target": "platforms/platform-3.md"
-        },
-        {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-02.md",
           "target": "platforms/platform-4.md"
         },
@@ -243,44 +345,20 @@
           "target": "code/theme-1-prioritise-people.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
-          "source": "code/section-03.md",
-          "target": "platforms/platform-2.md"
-        },
-        {
-          "kind": "assessed through",
-          "label": "assessed through",
-          "source": "code/section-03.md",
-          "target": "platforms/platform-3.md"
-        },
-        {
-          "kind": "assessed through",
-          "label": "assessed through",
-          "source": "code/section-03.md",
-          "target": "platforms/platform-4.md"
-        },
-        {
-          "kind": "assessed through",
-          "label": "assessed through",
-          "source": "code/section-03.md",
-          "target": "platforms/platform-7.md"
-        },
-        {
           "kind": "related",
           "label": "related",
           "source": "code/section-04.md",
           "target": "code/theme-1-prioritise-people.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
           "source": "code/section-04.md",
-          "target": "platforms/platform-1.md"
+          "target": "index.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-04.md",
           "target": "platforms/platform-3.md"
         },
@@ -303,46 +381,58 @@
           "target": "glossary/evidence-based-practice.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
+          "source": "code/section-06.md",
+          "target": "index.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-06.md",
           "target": "platforms/platform-1.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
+          "source": "code/section-06.md",
+          "target": "platforms/platform-3.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-06.md",
           "target": "platforms/platform-4.md"
         },
         {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
+          "source": "code/section-06.md",
+          "target": "platforms/platform-6.md"
+        },
+        {
           "kind": "related",
           "label": "related",
           "source": "code/section-07.md",
           "target": "code/theme-2-practise-effectively.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
           "source": "code/section-07.md",
-          "target": "platforms/platform-7.md"
+          "target": "index.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
+          "source": "code/section-07.md",
+          "target": "platforms/platform-2.md"
         },
         {
           "kind": "related",
           "label": "related",
           "source": "code/section-08.md",
           "target": "code/theme-2-practise-effectively.md"
-        },
-        {
-          "kind": "assessed through",
-          "label": "assessed through",
-          "source": "code/section-08.md",
-          "target": "platforms/platform-5.md"
-        },
-        {
-          "kind": "assessed through",
-          "label": "assessed through",
-          "source": "code/section-08.md",
-          "target": "platforms/platform-7.md"
         },
         {
           "kind": "related",
@@ -351,8 +441,14 @@
           "target": "code/theme-2-practise-effectively.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
+          "source": "code/section-09.md",
+          "target": "index.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-09.md",
           "target": "platforms/platform-5.md"
         },
@@ -363,16 +459,22 @@
           "target": "code/theme-2-practise-effectively.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
+          "source": "code/section-10.md",
+          "target": "index.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-10.md",
           "target": "platforms/platform-1.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-10.md",
-          "target": "platforms/platform-3.md"
+          "target": "platforms/platform-6.md"
         },
         {
           "kind": "related",
@@ -387,8 +489,14 @@
           "target": "glossary/delegation.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
+          "source": "code/section-11.md",
+          "target": "index.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-11.md",
           "target": "platforms/platform-5.md"
         },
@@ -405,22 +513,16 @@
           "target": "code/theme-3-preserve-safety.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
           "source": "code/section-13.md",
-          "target": "platforms/platform-1.md"
+          "target": "index.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-13.md",
           "target": "platforms/platform-3.md"
-        },
-        {
-          "kind": "assessed through",
-          "label": "assessed through",
-          "source": "code/section-13.md",
-          "target": "platforms/platform-7.md"
         },
         {
           "kind": "related",
@@ -435,22 +537,34 @@
           "target": "glossary/duty-of-candour.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
           "source": "code/section-14.md",
-          "target": "platforms/platform-1.md"
+          "target": "index.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-14.md",
-          "target": "platforms/platform-6.md"
+          "target": "platforms/platform-1.md"
         },
         {
           "kind": "related",
           "label": "related",
           "source": "code/section-15.md",
           "target": "code/theme-3-preserve-safety.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "code/section-15.md",
+          "target": "index.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
+          "source": "code/section-15.md",
+          "target": "platforms/platform-7.md"
         },
         {
           "kind": "related",
@@ -465,14 +579,20 @@
           "target": "glossary/raising-concerns.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
           "source": "code/section-16.md",
-          "target": "platforms/platform-1.md"
+          "target": "index.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
+          "source": "code/section-16.md",
+          "target": "platforms/platform-4.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-16.md",
           "target": "platforms/platform-6.md"
         },
@@ -489,14 +609,26 @@
           "target": "glossary/safeguarding.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
+          "source": "code/section-17.md",
+          "target": "index.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-17.md",
           "target": "platforms/platform-3.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
+          "source": "code/section-17.md",
+          "target": "platforms/platform-4.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-17.md",
           "target": "platforms/platform-6.md"
         },
@@ -507,8 +639,14 @@
           "target": "code/theme-3-preserve-safety.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
+          "source": "code/section-18.md",
+          "target": "index.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-18.md",
           "target": "platforms/platform-4.md"
         },
@@ -519,22 +657,34 @@
           "target": "code/theme-3-preserve-safety.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
+          "source": "code/section-19.md",
+          "target": "index.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-19.md",
           "target": "platforms/platform-2.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-19.md",
-          "target": "platforms/platform-4.md"
+          "target": "platforms/platform-5.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-19.md",
           "target": "platforms/platform-6.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
+          "source": "code/section-19.md",
+          "target": "platforms/platform-7.md"
         },
         {
           "kind": "related",
@@ -543,10 +693,22 @@
           "target": "code/theme-4-promote-professionalism-and-trust.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
           "source": "code/section-20.md",
-          "target": "platforms/platform-1.md"
+          "target": "index.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
+          "source": "code/section-20.md",
+          "target": "platforms/platform-4.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
+          "source": "code/section-20.md",
+          "target": "platforms/platform-6.md"
         },
         {
           "kind": "related",
@@ -567,8 +729,14 @@
           "target": "glossary/revalidation.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
+          "source": "code/section-22.md",
+          "target": "index.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-22.md",
           "target": "platforms/platform-1.md"
         },
@@ -585,8 +753,14 @@
           "target": "glossary/fitness-to-practise.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
+          "source": "code/section-23.md",
+          "target": "index.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-23.md",
           "target": "platforms/platform-6.md"
         },
@@ -597,28 +771,22 @@
           "target": "code/theme-4-promote-professionalism-and-trust.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
-          "source": "code/section-24.md",
-          "target": "platforms/platform-6.md"
-        },
-        {
           "kind": "related",
           "label": "related",
           "source": "code/section-25.md",
           "target": "code/theme-4-promote-professionalism-and-trust.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
           "source": "code/section-25.md",
-          "target": "platforms/platform-5.md"
+          "target": "index.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-25.md",
-          "target": "platforms/platform-7.md"
+          "target": "platforms/platform-5.md"
         },
         {
           "kind": "related",
@@ -1002,6 +1170,18 @@
           "kind": "lists",
           "label": "lists",
           "source": "index.md",
+          "target": "annexes/annexe-a.md"
+        },
+        {
+          "kind": "lists",
+          "label": "lists",
+          "source": "index.md",
+          "target": "annexes/annexe-b.md"
+        },
+        {
+          "kind": "lists",
+          "label": "lists",
+          "source": "index.md",
           "target": "code/index.md"
         },
         {
@@ -1021,6 +1201,18 @@
           "label": "lists",
           "source": "index.md",
           "target": "sssa/index.md"
+        },
+        {
+          "kind": "lists",
+          "label": "lists",
+          "source": "platforms/index.md",
+          "target": "annexes/annexe-a.md"
+        },
+        {
+          "kind": "lists",
+          "label": "lists",
+          "source": "platforms/index.md",
+          "target": "annexes/annexe-b.md"
         },
         {
           "kind": "lists",
@@ -1083,56 +1275,38 @@
           "target": "sssa/index.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "requires skills in",
+          "label": "requires skills in",
           "source": "platforms/platform-1.md",
-          "target": "code/section-01.md"
+          "target": "annexes/annexe-a.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "requires skills in",
+          "label": "requires skills in",
           "source": "platforms/platform-1.md",
-          "target": "code/section-04.md"
+          "target": "annexes/annexe-b.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-1.md",
           "target": "code/section-06.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-1.md",
           "target": "code/section-10.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
-          "source": "platforms/platform-1.md",
-          "target": "code/section-13.md"
-        },
-        {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-1.md",
           "target": "code/section-14.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
-          "source": "platforms/platform-1.md",
-          "target": "code/section-16.md"
-        },
-        {
-          "kind": "maps to Code",
-          "label": "maps to Code",
-          "source": "platforms/platform-1.md",
-          "target": "code/section-20.md"
-        },
-        {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-1.md",
           "target": "code/section-22.md"
         },
@@ -1140,25 +1314,43 @@
           "kind": "links to",
           "label": "links to",
           "source": "platforms/platform-1.md",
+          "target": "index.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "platforms/platform-1.md",
           "target": "sssa/index.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "requires skills in",
+          "label": "requires skills in",
           "source": "platforms/platform-2.md",
-          "target": "code/section-02.md"
+          "target": "annexes/annexe-a.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "requires skills in",
+          "label": "requires skills in",
           "source": "platforms/platform-2.md",
-          "target": "code/section-03.md"
+          "target": "annexes/annexe-b.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
+          "source": "platforms/platform-2.md",
+          "target": "code/section-07.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-2.md",
           "target": "code/section-19.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "platforms/platform-2.md",
+          "target": "index.md"
         },
         {
           "kind": "links to",
@@ -1167,40 +1359,46 @@
           "target": "sssa/index.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "requires skills in",
+          "label": "requires skills in",
           "source": "platforms/platform-3.md",
-          "target": "code/section-02.md"
+          "target": "annexes/annexe-a.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "requires skills in",
+          "label": "requires skills in",
           "source": "platforms/platform-3.md",
-          "target": "code/section-03.md"
+          "target": "annexes/annexe-b.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-3.md",
           "target": "code/section-04.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-3.md",
-          "target": "code/section-10.md"
+          "target": "code/section-06.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-3.md",
           "target": "code/section-13.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-3.md",
           "target": "code/section-17.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "platforms/platform-3.md",
+          "target": "index.md"
         },
         {
           "kind": "links to",
@@ -1209,40 +1407,64 @@
           "target": "sssa/index.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "requires skills in",
+          "label": "requires skills in",
+          "source": "platforms/platform-4.md",
+          "target": "annexes/annexe-a.md"
+        },
+        {
+          "kind": "requires skills in",
+          "label": "requires skills in",
+          "source": "platforms/platform-4.md",
+          "target": "annexes/annexe-b.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-4.md",
           "target": "code/section-01.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-4.md",
           "target": "code/section-02.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
-          "source": "platforms/platform-4.md",
-          "target": "code/section-03.md"
-        },
-        {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-4.md",
           "target": "code/section-06.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
+          "source": "platforms/platform-4.md",
+          "target": "code/section-16.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
+          "source": "platforms/platform-4.md",
+          "target": "code/section-17.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-4.md",
           "target": "code/section-18.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-4.md",
-          "target": "code/section-19.md"
+          "target": "code/section-20.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "platforms/platform-4.md",
+          "target": "index.md"
         },
         {
           "kind": "links to",
@@ -1251,28 +1473,46 @@
           "target": "sssa/index.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "requires skills in",
+          "label": "requires skills in",
           "source": "platforms/platform-5.md",
-          "target": "code/section-08.md"
+          "target": "annexes/annexe-a.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "requires skills in",
+          "label": "requires skills in",
+          "source": "platforms/platform-5.md",
+          "target": "annexes/annexe-b.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-5.md",
           "target": "code/section-09.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-5.md",
           "target": "code/section-11.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
+          "source": "platforms/platform-5.md",
+          "target": "code/section-19.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-5.md",
           "target": "code/section-25.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "platforms/platform-5.md",
+          "target": "index.md"
         },
         {
           "kind": "links to",
@@ -1281,40 +1521,64 @@
           "target": "sssa/index.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "requires skills in",
+          "label": "requires skills in",
           "source": "platforms/platform-6.md",
-          "target": "code/section-14.md"
+          "target": "annexes/annexe-a.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "requires skills in",
+          "label": "requires skills in",
+          "source": "platforms/platform-6.md",
+          "target": "annexes/annexe-b.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
+          "source": "platforms/platform-6.md",
+          "target": "code/section-06.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
+          "source": "platforms/platform-6.md",
+          "target": "code/section-10.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-6.md",
           "target": "code/section-16.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-6.md",
           "target": "code/section-17.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-6.md",
           "target": "code/section-19.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
+          "source": "platforms/platform-6.md",
+          "target": "code/section-20.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-6.md",
           "target": "code/section-23.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "links to",
+          "label": "links to",
           "source": "platforms/platform-6.md",
-          "target": "code/section-24.md"
+          "target": "index.md"
         },
         {
           "kind": "links to",
@@ -1323,34 +1587,34 @@
           "target": "sssa/index.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "requires skills in",
+          "label": "requires skills in",
           "source": "platforms/platform-7.md",
-          "target": "code/section-03.md"
+          "target": "annexes/annexe-a.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "requires skills in",
+          "label": "requires skills in",
           "source": "platforms/platform-7.md",
-          "target": "code/section-07.md"
+          "target": "annexes/annexe-b.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-7.md",
-          "target": "code/section-08.md"
+          "target": "code/section-15.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-7.md",
-          "target": "code/section-13.md"
+          "target": "code/section-19.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "links to",
+          "label": "links to",
           "source": "platforms/platform-7.md",
-          "target": "code/section-25.md"
+          "target": "index.md"
         },
         {
           "kind": "links to",
@@ -1513,6 +1777,67 @@
       "label": "NMC Standards",
       "markdown_url": "index.md",
       "nodes": {
+        "annexes/annexe-a.md": {
+          "aliases": [
+            "annexe a",
+            "annex a"
+          ],
+          "body": "# Annexe A: Communication and relationship management skills\n\nAt the point of registration, the registered nurse will be able to safely demonstrate the following skills, required to meet the proficiency outcomes of [Platform 1, proficiency 1.20](../platforms/platform-1.md).\n\n\n## 1. Underpinning communication skills for assessing, planning, providing and managing best practice, evidence-based nursing care\n\n- **1.1** actively listen, recognise and respond to verbal and non-verbal cues\n- **1.2** use prompts and positive verbal and non-verbal reinforcement\n- **1.3** use appropriate non-verbal communication including touch, eye contact and personal space\n- **1.4** make appropriate use of open and closed questioning\n- **1.5** use caring conversation techniques\n- **1.6** check understanding and use clarification techniques\n- **1.7** be aware of own unconscious bias in communication encounters\n- **1.8** write accurate, clear, legible records and documentation\n- **1.9** confidently and clearly present and share verbal and written reports with individuals and groups\n- **1.10** analyse and clearly record and share digital information and data\n- **1.11** provide clear verbal, digital or written information and instructions when delegating or handing over responsibility for care\n- **1.12** recognise the need for, and facilitate access to, translator services and material\n\n## 2. Evidence-based, best practice approaches to communication for supporting people of all ages, their families and carers in preventing ill health and in managing their care\n\n- **2.1** share information and check understanding about the causes, implications and treatment of a range of common health conditions including anxiety, depression, memory loss, diabetes, dementia, respiratory disease, cardiac disease, neurological disease, cancer, skin problems, immune deficiencies, psychosis, stroke and arthritis\n- **2.2** use clear language and appropriate, written materials, making reasonable adjustments where appropriate in order to optimise people's understanding of what has caused their health condition and the implications of their care and treatment\n- **2.3** recognise and accommodate sensory impairments during all communications\n- **2.4** support and manage the use of personal communication aids\n- **2.5** identify the need for and manage a range of alternative communication techniques\n- **2.6** use repetition and positive reinforcement strategies\n- **2.7** assess motivation and capacity for behaviour change and clearly explain cause and effect relationships related to common health risk behaviours including smoking, obesity, sexual practice, alcohol and substance use\n- **2.8** provide information and explanation to people, families and carers and respond to questions about their treatment and care and possible ways of preventing ill health to enhance understanding\n- **2.9** engage in difficult conversations, including breaking bad news and support people who are feeling emotionally or physically vulnerable or in distress, conveying compassion and sensitivity\n\n## 3. Evidence-based, best practice communication skills and approaches for providing therapeutic interventions\n\n- **3.1** motivational interview techniques\n- **3.2** solution focused therapies\n- **3.3** reminiscence therapies\n- **3.4** talking therapies\n- **3.5** de-escalation strategies and techniques\n- **3.6** cognitive behavioural therapy techniques\n- **3.7** play therapy\n- **3.8** distraction and diversion strategies\n- **3.9** positive behaviour support approaches\n\n## 4. Evidence-based, best practice communication skills and approaches for working with people in professional teams\n\n- **4.1** Demonstrate effective supervision, teaching and performance appraisal through the use of: clear instructions and explanations when supervising, teaching or appraising others (4.1.1); clear instructions and check understanding when delegating care responsibilities to others (4.1.2); unambiguous, constructive feedback about strengths and weaknesses and potential for improvement (4.1.3); encouragement to colleagues that helps them to reflect on their practice (4.1.4); unambiguous records of performance (4.1.5)\n- **4.2** Demonstrate effective person and team management through the use of: strengths based approaches to developing teams and managing change (4.2.1); active listening when dealing with team members' concerns and anxieties (4.2.2); a calm presence when dealing with conflict (4.2.3); appropriate and effective confrontation strategies (4.2.4); de-escalation strategies and techniques when dealing with conflict (4.2.5); effective co-ordination and navigation skills through appropriate negotiation strategies, appropriate escalation procedures and appropriate approaches to advocacy (4.2.6)\n\n## Related Code sections\nEditorial cross-references, quoting the specific item and Code wording it echoes \u2014 not an official crosswalk:\n- **1.8** \"write accurate, clear, legible records\" \u2192 [Code section 10](../code/section-10.md) (accurate records)\n- **2.9** \"engage in difficult conversations, including breaking bad news\" \u2192 [Code section 14](../code/section-14.md) (candour)\n- **1.12** \"facilitate access to translator services\" \u2192 [Code section 7](../code/section-07.md) (communicate clearly)\n- **4.1.2** \"clear instructions... when delegating care responsibilities\" \u2192 [Code section 11](../code/section-11.md) (delegation)\n\nBack to [proficiency platforms](../platforms/index.md).\n",
+          "description": "The communication and relationship management skills a newly registered nurse must demonstrate, in 4 sections.",
+          "id": "annexes/annexe-a.md",
+          "resource": "",
+          "route_aliases": [
+            "annex-a",
+            "annexe-a",
+            "annexes-annexe-a",
+            "annexes/annexe-a",
+            "annexes/annexe-a.md"
+          ],
+          "section": "annexes",
+          "source": "annexes/annexe-a.md",
+          "timestamp": "2018-05-17T00:00:00Z",
+          "title": "Annexe A: Communication and relationship management skills",
+          "type": "Annexe"
+        },
+        "annexes/annexe-b.md": {
+          "aliases": [
+            "annexe b",
+            "annex b"
+          ],
+          "body": "# Annexe B: Nursing procedures\n\nAt the point of registration, the registered nurse will be able to safely demonstrate the following procedures, required to meet the proficiency outcomes of [Platform 1, proficiency 1.20](../platforms/platform-1.md) and [Platform 4](../platforms/platform-4.md).\n\n\n## Part 1: Procedures for assessing people's needs for person-centred care\n\n\n### 1. Use evidence-based, best practice approaches to take a history, observe, recognise and accurately assess people of all ages\n\n- **1.1** mental health and wellbeing status, including: signs of mental and emotional distress or vulnerability (1.1.1); cognitive health status and wellbeing (1.1.2); signs of cognitive distress and impairment (1.1.3); behavioural distress based needs (1.1.4); signs of mental and emotional distress including agitation, aggression and challenging behaviour (1.1.5); signs of self-harm and/or suicidal ideation (1.1.6)\n- **1.2** physical health and wellbeing, including: symptoms and signs of physical ill health (1.2.1); symptoms and signs of physical distress (1.2.2); symptoms and signs of deterioration and sepsis (1.2.3)\n\n### 2. Use evidence-based, best practice approaches to undertake the following procedures\n\n- **2.1** take, record and interpret vital signs manually and via technological devices\n- **2.2** undertake venepuncture and cannulation and blood sampling, interpreting normal and common abnormal blood profiles and venous blood gases\n- **2.3** set up and manage routine electrocardiogram (ECG) investigations and interpret normal and commonly encountered abnormal traces\n- **2.4** manage and monitor blood component transfusions\n- **2.5** manage and interpret cardiac monitors, infusion pumps, blood glucose monitors and other monitoring devices\n- **2.6** accurately measure weight and height, calculate body mass index and recognise healthy ranges and clinically significant low/high readings\n- **2.7** undertake a whole body systems assessment including respiratory, circulatory, neurological, musculoskeletal, cardiovascular and skin status\n- **2.8** undertake chest auscultation and interpret findings\n- **2.9** collect and observe sputum, urine, stool and vomit specimens, undertaking routine analysis and interpreting findings\n- **2.10** measure and interpret blood glucose levels\n- **2.11** recognise and respond to signs of all forms of abuse\n- **2.12** undertake, respond to and interpret neurological observations and assessments\n- **2.13** identify and respond to signs of deterioration and sepsis\n- **2.14** administer basic mental health first aid\n- **2.15** administer basic physical first aid\n- **2.16** recognise and manage seizures, choking and anaphylaxis, providing appropriate basic life support\n- **2.17** recognise and respond to challenging behaviour, providing appropriate safe holding and restraint\n\n## Part 2: Procedures for the planning, provision and management of person-centred nursing care\n\n\n### 3. Use evidence-based, best practice approaches for meeting needs for care and support with rest, sleep, comfort and the maintenance of dignity\n\n- **3.1** observe and assess comfort and pain levels and rest and sleep patterns\n- **3.2** use appropriate bed-making techniques including those required for people who are unconscious or who have limited mobility\n- **3.3** use appropriate positioning and pressure-relieving techniques\n- **3.4** take appropriate action to ensure privacy and dignity at all times\n- **3.5** take appropriate action to reduce or minimise pain or discomfort\n- **3.6** take appropriate action to reduce fatigue, minimise insomnia and support improved rest and sleep hygiene\n\n### 4. Use evidence-based, best practice approaches for meeting the needs for care and support with hygiene and the maintenance of skin integrity\n\n- **4.1** observe, assess and optimise skin and hygiene status and determine the need for support and intervention\n- **4.2** use contemporary approaches to the assessment of skin integrity and use appropriate products to prevent or manage skin breakdown\n- **4.3** assess needs for and provide appropriate assistance with washing, bathing, shaving and dressing\n- **4.4** identify and manage skin irritations and rashes\n- **4.5** assess needs for and provide appropriate oral, dental, eye and nail care and decide when an onward referral is needed\n- **4.6** use aseptic techniques when undertaking wound care including dressings, pressure bandaging, suture removal, and vacuum closures\n- **4.7** use aseptic techniques when managing wound and drainage processes\n- **4.8** assess, respond and effectively manage pyrexia and hypothermia\n\n### 5. Use evidence-based, best practice approaches for meeting the needs for care and support with nutrition and hydration\n\n- **5.1** observe, assess and optimise nutrition and hydration status and determine the need for intervention and support\n- **5.2** use contemporary nutritional assessment tools\n- **5.3** assist with feeding and drinking and use appropriate feeding and drinking aids\n- **5.4** record fluid intake and output and identify, respond to and manage dehydration or fluid retention\n- **5.5** identify, respond to and manage nausea and vomiting\n- **5.6** insert, manage and remove oral/nasal/gastric tubes\n- **5.7** manage artificial nutrition and hydration using oral, enteral and parenteral routes\n- **5.8** manage the administration of IV fluids\n- **5.9** manage fluid and nutritional infusion pumps and devices\n\n### 6. Use evidence-based, best practice approaches for meeting needs for care and support with bladder and bowel health\n\n- **6.1** observe and assess level of urinary and bowel continence to determine the need for support and intervention assisting with toileting, maintaining dignity and privacy and managing the use of appropriate aids\n- **6.2** select and use appropriate continence products; insert, manage and remove catheters for all genders; and assist with self-catheterisation when required\n- **6.3** manage bladder drainage\n- **6.4** assess bladder and bowel patterns to identify and respond to constipation, diarrhoea and urinary and faecal retention\n- **6.5** administer enemas and suppositories and undertake rectal examination and manual evacuation when appropriate\n- **6.6** undertake stoma care identifying and using appropriate products and approaches\n\n### 7. Use evidence-based, best practice approaches for meeting needs for care and support with mobility and safety\n\n- **7.1** observe and use evidence-based risk assessment tools to determine need for support and intervention to optimise mobility and safety, and to identify and manage risk of falls using best practice risk assessment approaches\n- **7.2** use a range of contemporary moving and handling techniques and mobility aids\n- **7.3** use appropriate moving and handling equipment to support people with impaired mobility\n- **7.4** use appropriate safety techniques and devices\n\n### 8. Use evidence-based, best practice approaches for meeting needs for respiratory care and support\n\n- **8.1** observe and assess the need for intervention and respond to restlessness, agitation and breathlessness using appropriate interventions\n- **8.2** manage the administration of oxygen using a range of routes and best practice approaches\n- **8.3** take and interpret peak flow and oximetry measurements\n- **8.4** use appropriate nasal and oral suctioning techniques\n- **8.5** manage inhalation, humidifier and nebuliser devices\n- **8.6** manage airway and respiratory processes and equipment\n\n### 9. Use evidence-based, best practice approaches for meeting needs for care and support with the prevention and management of infection\n\n- **9.1** observe, assess and respond rapidly to potential infection risks using best practice guidelines\n- **9.2** use standard precautions protocols\n- **9.3** use effective aseptic, non-touch techniques\n- **9.4** use appropriate personal protection equipment\n- **9.5** implement isolation procedures\n- **9.6** use evidence-based hand hygiene techniques\n- **9.7** safely decontaminate equipment and environment\n- **9.8** safely use and dispose of waste, laundry and sharps\n- **9.9** safely assess and manage invasive medical devices and lines\n\n### 10. Use evidence-based, best practice approaches for meeting needs for care and support at the end of life\n\n- **10.1** observe, and assess the need for intervention for people, families and carers, identify, assess and respond appropriately to uncontrolled symptoms and signs of distress including pain, nausea, thirst, constipation, restlessness, agitation, anxiety and depression\n- **10.2** manage and monitor effectiveness of symptom relief medication, infusion pumps and other devices\n- **10.3** assess and review preferences and care priorities of the dying person and their family and carers\n- **10.4** understand and apply organ and tissue donation protocols, advanced planning decisions, living wills and health and lasting powers of attorney for health\n- **10.5** understand and apply DNACPR (do not attempt cardiopulmonary resuscitation) decisions and verification of expected death\n- **10.6** provide care for the deceased person and the bereaved respecting cultural requirements and protocols\n\n### 11. Procedural competencies required for best practice, evidence-based medicines administration and optimisation\n\n- **11.1** carry out initial and continued assessments of people receiving care and their ability to self-administer their own medications\n- **11.2** recognise the various procedural routes under which medicines can be prescribed, supplied, dispensed and administered; and the laws, policies, regulations and guidance that underpin them\n- **11.3** use the principles of safe remote prescribing and directions to administer medicines\n- **11.4** undertake accurate drug calculations for a range of medications\n- **11.5** undertake accurate checks, including transcription and titration, of any direction to supply or administer a medicinal product\n- **11.6** exercise professional accountability in ensuring the safe administration of medicines to those receiving care\n- **11.7** administer injections using intramuscular, subcutaneous, intradermal and intravenous routes and manage injection equipment\n- **11.8** administer medications using a range of routes\n- **11.9** administer and monitor medications using vascular access devices and enteral equipment\n- **11.10** recognise and respond to adverse or abnormal reactions to medications\n- **11.11** undertake safe storage, transportation and disposal of medicinal products\n\n## Related Code sections\nEditorial cross-references, quoting the specific item and Code wording it echoes \u2014 not an official crosswalk:\n- **2.11** \"recognise and respond to signs of all forms of abuse\" \u2192 [Code section 17](../code/section-17.md) (vulnerable people, safeguarding)\n- **9.1\u20139.9** infection prevention and control procedures \u2192 [Code section 19](../code/section-19.md) (infection prevention and control)\n- **11.6** \"exercise professional accountability in ensuring the safe administration of medicines\" \u2192 [Code section 18](../code/section-18.md) (administer medicines within the limits of your training)\n- **3.4** \"take appropriate action to ensure privacy and dignity at all times\" \u2192 [Code section 1](../code/section-01.md) / [Code section 5](../code/section-05.md)\n\nBack to [proficiency platforms](../platforms/index.md).\n",
+          "description": "The nursing procedures a newly registered nurse must demonstrate, in 2 parts covering assessment and care management.",
+          "id": "annexes/annexe-b.md",
+          "resource": "",
+          "route_aliases": [
+            "annex-b",
+            "annexe-b",
+            "annexes-annexe-b",
+            "annexes/annexe-b",
+            "annexes/annexe-b.md"
+          ],
+          "section": "annexes",
+          "source": "annexes/annexe-b.md",
+          "timestamp": "2018-05-17T00:00:00Z",
+          "title": "Annexe B: Nursing procedures",
+          "type": "Annexe"
+        },
+        "annexes/index.md": {
+          "aliases": [],
+          "body": "# Annexes A and B\n\nTwo annexes to the [proficiency platforms](../platforms/index.md), referenced directly by proficiency 1.20 (\"Safely demonstrate evidence-based practice in all skills and procedures in Annexes A and B\"):\n\n- **[Annexe A: Communication and relationship management skills](annexe-a.md)** \u2014 4 sections, from underpinning communication skills through to team leadership communication\n- **[Annexe B: Nursing procedures](annexe-b.md)** \u2014 2 parts (assessment procedures; planning, provision and management procedures), 11 procedure groups\n\nBack to the [explorer root](../index.md).\n",
+          "description": "The skills (Annexe A) and procedures (Annexe B) a newly registered nurse must demonstrate, referenced by proficiency 1.20.",
+          "id": "annexes/index.md",
+          "resource": "https://www.nmc.org.uk/standards/standards-for-nurses/standards-of-proficiency-for-registered-nurses/",
+          "route_aliases": [
+            "annexes-index",
+            "annexes/index",
+            "annexes/index.md"
+          ],
+          "section": "annexes",
+          "source": "annexes/index.md",
+          "timestamp": "2018-05-17T00:00:00Z",
+          "title": "Annexes A and B",
+          "type": "Index"
+        },
         "code/index.md": {
           "aliases": [],
           "body": "# The Code\n\nProfessional standards of practice and behaviour for nurses, midwives and nursing associates (NMC, 2015; updated 2018).\n\n- **[Theme 1: Prioritise People](theme-1-prioritise-people.md)** \u2014 sections [1](section-01.md), [2](section-02.md), [3](section-03.md), [4](section-04.md), [5](section-05.md)\n- **[Theme 2: Practise Effectively](theme-2-practise-effectively.md)** \u2014 sections [6](section-06.md), [7](section-07.md), [8](section-08.md), [9](section-09.md), [10](section-10.md), [11](section-11.md), [12](section-12.md)\n- **[Theme 3: Preserve Safety](theme-3-preserve-safety.md)** \u2014 sections [13](section-13.md), [14](section-14.md), [15](section-15.md), [16](section-16.md), [17](section-17.md), [18](section-18.md), [19](section-19.md)\n- **[Theme 4: Promote Professionalism and Trust](theme-4-promote-professionalism-and-trust.md)** \u2014 sections [20](section-20.md), [21](section-21.md), [22](section-22.md), [23](section-23.md), [24](section-24.md), [25](section-25.md)\n\nBack to the [explorer root](../index.md).\n",
@@ -1535,7 +1860,7 @@
             "code 1",
             "section 1"
           ],
-          "body": "# 1. Treat people as individuals and uphold their dignity\n\nTheme: [Prioritise People](theme-1-prioritise-people.md)\n\n## To achieve this, you must:\n\n- **1.1** Treat people with kindness, respect and compassion\n- **1.2** Make sure you deliver the fundamentals of care effectively\n- **1.3** Avoid making assumptions and recognise diversity and individual choice\n- **1.4** Make sure that any treatment, assistance or care is delivered without undue delay\n- **1.5** Respect and uphold people's human rights\n\n## Assessed through\n- [Platform 1: Being an accountable professional](../platforms/platform-1.md)\n- [Platform 4: Providing and evaluating care](../platforms/platform-4.md)\n\n## Key concepts\n- [Person-centred care](../glossary/person-centred-care.md)\n",
+          "body": "# 1. Treat people as individuals and uphold their dignity\n\nTheme: [Prioritise People](theme-1-prioritise-people.md)\n\n## To achieve this, you must:\n\n- **1.1** Treat people with kindness, respect and compassion\n- **1.2** Make sure you deliver the fundamentals of care effectively\n- **1.3** Avoid making assumptions and recognise diversity and individual choice\n- **1.4** Make sure that any treatment, assistance or care is delivered without undue delay\n- **1.5** Respect and uphold people's human rights\n\n## Textual cross-references (proficiency statements)\nNot an official NMC crosswalk \u2014 computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).\n- [Platform 4: Providing and evaluating care](../platforms/platform-4.md) \u2014 **4.1** (\"dignity\")\n\n## Key concepts\n- [Person-centred care](../glossary/person-centred-care.md)\n",
           "description": "Code section 1 (Prioritise People): Treat people as individuals and uphold their dignity.",
           "id": "code/section-01.md",
           "resource": "",
@@ -1557,7 +1882,7 @@
             "code 2",
             "section 2"
           ],
-          "body": "# 2. Listen to people and respond to their preferences and concerns\n\nTheme: [Prioritise People](theme-1-prioritise-people.md)\n\n## To achieve this, you must:\n\n- **2.1** Work in partnership with people to deliver care effectively\n- **2.2** Recognise and respect the contribution that people can make to their own health and wellbeing\n- **2.3** Encourage and empower people to share decisions about their treatment and care\n- **2.4** Respect the level to which people want to be involved in decisions about their own health\n- **2.5** Respect, support and document a person's right to accept or refuse care and treatment\n- **2.6** Recognise when people are anxious or in distress and respond compassionately and politely\n\n## Assessed through\n- [Platform 2: Promoting health and preventing ill health](../platforms/platform-2.md)\n- [Platform 3: Assessing needs and planning care](../platforms/platform-3.md)\n- [Platform 4: Providing and evaluating care](../platforms/platform-4.md)\n\n## Key concepts\n- [Person-centred care](../glossary/person-centred-care.md)\n",
+          "body": "# 2. Listen to people and respond to their preferences and concerns\n\nTheme: [Prioritise People](theme-1-prioritise-people.md)\n\n## To achieve this, you must:\n\n- **2.1** Work in partnership with people to deliver care effectively\n- **2.2** Recognise and respect the contribution that people can make to their own health and wellbeing\n- **2.3** Encourage and empower people to share decisions about their treatment and care\n- **2.4** Respect the level to which people want to be involved in decisions about their own health\n- **2.5** Respect, support and document a person's right to accept or refuse care and treatment\n- **2.6** Recognise when people are anxious or in distress and respond compassionately and politely\n\n## Textual cross-references (proficiency statements)\nNot an official NMC crosswalk \u2014 computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).\n- [Platform 4: Providing and evaluating care](../platforms/platform-4.md) \u2014 **4.2** (\"shared decision\")\n\n## Key concepts\n- [Person-centred care](../glossary/person-centred-care.md)\n",
           "description": "Code section 2 (Prioritise People): Listen to people and respond to their preferences and concerns.",
           "id": "code/section-02.md",
           "resource": "",
@@ -1579,7 +1904,7 @@
             "code 3",
             "section 3"
           ],
-          "body": "# 3. Make sure that people's physical, social and psychological needs are assessed and responded to\n\nTheme: [Prioritise People](theme-1-prioritise-people.md)\n\n## To achieve this, you must:\n\n- **3.1** Pay special attention to promoting wellbeing, preventing ill health and meeting changing needs during all life stages\n- **3.2** Recognise and respond compassionately to the needs of those in the last few days and hours of life\n- **3.3** Act in partnership with those receiving care, helping them access relevant health and social care\n- **3.4** Act as an advocate for the vulnerable, challenging poor practice and discriminatory attitudes\n\n## Assessed through\n- [Platform 2: Promoting health and preventing ill health](../platforms/platform-2.md)\n- [Platform 3: Assessing needs and planning care](../platforms/platform-3.md)\n- [Platform 4: Providing and evaluating care](../platforms/platform-4.md)\n- [Platform 7: Coordinating care](../platforms/platform-7.md)\n",
+          "body": "# 3. Make sure that people's physical, social and psychological needs are assessed and responded to\n\nTheme: [Prioritise People](theme-1-prioritise-people.md)\n\n## To achieve this, you must:\n\n- **3.1** Pay special attention to promoting wellbeing, preventing ill health and meeting changing needs during all life stages\n- **3.2** Recognise and respond compassionately to the needs of those in the last few days and hours of life\n- **3.3** Act in partnership with those receiving care, helping them access relevant health and social care\n- **3.4** Act as an advocate for the vulnerable, challenging poor practice and discriminatory attitudes\n",
           "description": "Code section 3 (Prioritise People): Make sure that people's physical, social and psychological needs are assessed and responded to.",
           "id": "code/section-03.md",
           "resource": "",
@@ -1601,7 +1926,7 @@
             "code 4",
             "section 4"
           ],
-          "body": "# 4. Act in the best interests of people at all times\n\nTheme: [Prioritise People](theme-1-prioritise-people.md)\n\n## To achieve this, you must:\n\n- **4.1** Balance the need to act in the best interests with respecting a person's right to accept or refuse treatment\n- **4.2** Make sure you get properly informed consent and document it\n- **4.3** Keep to all relevant laws about mental capacity\n- **4.4** Tell colleagues if you have a conscientious objection and arrange alternative care\n\n## Assessed through\n- [Platform 1: Being an accountable professional](../platforms/platform-1.md)\n- [Platform 3: Assessing needs and planning care](../platforms/platform-3.md)\n",
+          "body": "# 4. Act in the best interests of people at all times\n\nTheme: [Prioritise People](theme-1-prioritise-people.md)\n\n## To achieve this, you must:\n\n- **4.1** Balance the need to act in the best interests with respecting a person's right to accept or refuse treatment\n- **4.2** Make sure you get properly informed consent and document it\n- **4.3** Keep to all relevant laws about mental capacity\n- **4.4** Tell colleagues if you have a conscientious objection and arrange alternative care\n\n## Textual cross-references (proficiency statements)\nNot an official NMC crosswalk \u2014 computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).\n- [Platform 3: Assessing needs and planning care](../platforms/platform-3.md) \u2014 **3.6** (\"consent\"), **3.8** (\"mental capacity\")\n",
           "description": "Code section 4 (Prioritise People): Act in the best interests of people at all times.",
           "id": "code/section-04.md",
           "resource": "",
@@ -1645,7 +1970,7 @@
             "code 6",
             "section 6"
           ],
-          "body": "# 6. Always practise in line with the best available evidence\n\nTheme: [Practise Effectively](theme-2-practise-effectively.md)\n\n## To achieve this, you must:\n\n- **6.1** Make sure that any information or advice given is evidence-based\n- **6.2** Maintain the knowledge and skills you need for safe and effective practice\n\n## Assessed through\n- [Platform 1: Being an accountable professional](../platforms/platform-1.md)\n- [Platform 4: Providing and evaluating care](../platforms/platform-4.md)\n\n## Key concepts\n- [Evidence-based practice](../glossary/evidence-based-practice.md)\n",
+          "body": "# 6. Always practise in line with the best available evidence\n\nTheme: [Practise Effectively](theme-2-practise-effectively.md)\n\n## To achieve this, you must:\n\n- **6.1** Make sure that any information or advice given is evidence-based\n- **6.2** Maintain the knowledge and skills you need for safe and effective practice\n\n## Textual cross-references (proficiency statements)\nNot an official NMC crosswalk \u2014 computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).\n- [Platform 1: Being an accountable professional](../platforms/platform-1.md) \u2014 **1.20** (\"evidence-based\")\n- [Platform 3: Assessing needs and planning care](../platforms/platform-3.md) \u2014 **3.5** (\"evidence-based\")\n- [Platform 4: Providing and evaluating care](../platforms/platform-4.md) \u2014 **4.1** (\"evidence-based\"), **4.18** (\"evidence-based\"), **4.8** (\"evidence-based\")\n- [Platform 6: Improving safety and quality of care](../platforms/platform-6.md) \u2014 **6.11** (\"evidence base\"), **6.4** (\"evidence-based\"), **6.9** (\"evidence-based\")\n\n## Key concepts\n- [Evidence-based practice](../glossary/evidence-based-practice.md)\n",
           "description": "Code section 6 (Practise Effectively): Always practise in line with the best available evidence.",
           "id": "code/section-06.md",
           "resource": "",
@@ -1667,7 +1992,7 @@
             "code 7",
             "section 7"
           ],
-          "body": "# 7. Communicate clearly\n\nTheme: [Practise Effectively](theme-2-practise-effectively.md)\n\n## To achieve this, you must:\n\n- **7.1** Use terms that people can understand\n- **7.2** Take reasonable steps to meet people's language and communication needs\n- **7.3** Use a range of verbal and non-verbal communication methods\n- **7.4** Check people's understanding from time to time\n- **7.5** Be able to communicate clearly and effectively in English\n\n## Assessed through\n- [Platform 7: Coordinating care](../platforms/platform-7.md)\n",
+          "body": "# 7. Communicate clearly\n\nTheme: [Practise Effectively](theme-2-practise-effectively.md)\n\n## To achieve this, you must:\n\n- **7.1** Use terms that people can understand\n- **7.2** Take reasonable steps to meet people's language and communication needs\n- **7.3** Use a range of verbal and non-verbal communication methods\n- **7.4** Check people's understanding from time to time\n- **7.5** Be able to communicate clearly and effectively in English\n\n## Textual cross-references (proficiency statements)\nNot an official NMC crosswalk \u2014 computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).\n- [Platform 2: Promoting health and preventing ill health](../platforms/platform-2.md) \u2014 **2.9** (\"communication skills\")\n",
           "description": "Code section 7 (Practise Effectively): Communicate clearly.",
           "id": "code/section-07.md",
           "resource": "",
@@ -1689,7 +2014,7 @@
             "code 8",
             "section 8"
           ],
-          "body": "# 8. Work cooperatively\n\nTheme: [Practise Effectively](theme-2-practise-effectively.md)\n\n## To achieve this, you must:\n\n- **8.1** Respect the skills, expertise and contributions of your colleagues\n- **8.2** Maintain effective communication with colleagues\n- **8.3** Keep colleagues informed when sharing the care of individuals\n- **8.4** Work with colleagues to evaluate the quality of your work and that of the team\n- **8.5** Work with colleagues to preserve the safety of those receiving care\n- **8.6** Share information to identify and reduce risk\n- **8.7** Be supportive of colleagues encountering health or performance problems\n\n## Assessed through\n- [Platform 5: Leading and managing nursing care and working in teams](../platforms/platform-5.md)\n- [Platform 7: Coordinating care](../platforms/platform-7.md)\n",
+          "body": "# 8. Work cooperatively\n\nTheme: [Practise Effectively](theme-2-practise-effectively.md)\n\n## To achieve this, you must:\n\n- **8.1** Respect the skills, expertise and contributions of your colleagues\n- **8.2** Maintain effective communication with colleagues\n- **8.3** Keep colleagues informed when sharing the care of individuals\n- **8.4** Work with colleagues to evaluate the quality of your work and that of the team\n- **8.5** Work with colleagues to preserve the safety of those receiving care\n- **8.6** Share information to identify and reduce risk\n- **8.7** Be supportive of colleagues encountering health or performance problems\n",
           "description": "Code section 8 (Practise Effectively): Work cooperatively.",
           "id": "code/section-08.md",
           "resource": "",
@@ -1711,7 +2036,7 @@
             "code 9",
             "section 9"
           ],
-          "body": "# 9. Share your skills, knowledge and experience for the benefit of people receiving care and your colleagues\n\nTheme: [Practise Effectively](theme-2-practise-effectively.md)\n\n## To achieve this, you must:\n\n- **9.1** Provide honest, accurate and constructive feedback to colleagues\n- **9.2** Gather and reflect on feedback from a variety of sources\n- **9.3** Deal with differences of professional opinion through discussion and informed debate\n- **9.4** Support students' and colleagues' learning\n\n## Assessed through\n- [Platform 5: Leading and managing nursing care and working in teams](../platforms/platform-5.md)\n",
+          "body": "# 9. Share your skills, knowledge and experience for the benefit of people receiving care and your colleagues\n\nTheme: [Practise Effectively](theme-2-practise-effectively.md)\n\n## To achieve this, you must:\n\n- **9.1** Provide honest, accurate and constructive feedback to colleagues\n- **9.2** Gather and reflect on feedback from a variety of sources\n- **9.3** Deal with differences of professional opinion through discussion and informed debate\n- **9.4** Support students' and colleagues' learning\n\n## Textual cross-references (proficiency statements)\nNot an official NMC crosswalk \u2014 computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).\n- [Platform 5: Leading and managing nursing care and working in teams](../platforms/platform-5.md) \u2014 **5.8** (\"constructive feedback\"), **5.9** (\"constructive feedback\")\n",
           "description": "Code section 9 (Practise Effectively): Share your skills, knowledge and experience for the benefit of people receiving care and your colleagues.",
           "id": "code/section-09.md",
           "resource": "",
@@ -1733,7 +2058,7 @@
             "code 10",
             "section 10"
           ],
-          "body": "# 10. Keep clear and accurate records relevant to your practice\n\nTheme: [Practise Effectively](theme-2-practise-effectively.md)\n\n## To achieve this, you must:\n\n- **10.1** Complete all records at the time or as soon as possible after an event\n- **10.2** Identify any risks or problems and the steps taken to deal with them\n- **10.3** Complete all records accurately and without any falsification\n- **10.4** Attribute any entries you make, making sure they are clearly written, dated and timed\n- **10.5** Take all steps to make sure records are kept securely\n- **10.6** Collect, treat and store all data and research findings appropriately\n\n## Assessed through\n- [Platform 1: Being an accountable professional](../platforms/platform-1.md)\n- [Platform 3: Assessing needs and planning care](../platforms/platform-3.md)\n",
+          "body": "# 10. Keep clear and accurate records relevant to your practice\n\nTheme: [Practise Effectively](theme-2-practise-effectively.md)\n\n## To achieve this, you must:\n\n- **10.1** Complete all records at the time or as soon as possible after an event\n- **10.2** Identify any risks or problems and the steps taken to deal with them\n- **10.3** Complete all records accurately and without any falsification\n- **10.4** Attribute any entries you make, making sure they are clearly written, dated and timed\n- **10.5** Take all steps to make sure records are kept securely\n- **10.6** Collect, treat and store all data and research findings appropriately\n\n## Textual cross-references (proficiency statements)\nNot an official NMC crosswalk \u2014 computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).\n- [Platform 1: Being an accountable professional](../platforms/platform-1.md) \u2014 **1.16** (\"records\")\n- [Platform 6: Improving safety and quality of care](../platforms/platform-6.md) \u2014 **6.11** (\"record keeping\")\n",
           "description": "Code section 10 (Practise Effectively): Keep clear and accurate records relevant to your practice.",
           "id": "code/section-10.md",
           "resource": "",
@@ -1755,7 +2080,7 @@
             "code 11",
             "section 11"
           ],
-          "body": "# 11. Be accountable for your decisions to delegate tasks and duties to other people\n\nTheme: [Practise Effectively](theme-2-practise-effectively.md)\n\n## To achieve this, you must:\n\n- **11.1** Only delegate tasks within the other person's scope of competence\n- **11.2** Make sure everyone you delegate to is adequately supervised and supported\n- **11.3** Confirm that the outcome of any delegated task meets the required standard\n\n## Assessed through\n- [Platform 5: Leading and managing nursing care and working in teams](../platforms/platform-5.md)\n\n## Key concepts\n- [Delegation](../glossary/delegation.md)\n",
+          "body": "# 11. Be accountable for your decisions to delegate tasks and duties to other people\n\nTheme: [Practise Effectively](theme-2-practise-effectively.md)\n\n## To achieve this, you must:\n\n- **11.1** Only delegate tasks within the other person's scope of competence\n- **11.2** Make sure everyone you delegate to is adequately supervised and supported\n- **11.3** Confirm that the outcome of any delegated task meets the required standard\n\n## Textual cross-references (proficiency statements)\nNot an official NMC crosswalk \u2014 computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).\n- [Platform 5: Leading and managing nursing care and working in teams](../platforms/platform-5.md) \u2014 **5.5** (\"delegation\")\n\n## Key concepts\n- [Delegation](../glossary/delegation.md)\n",
           "description": "Code section 11 (Practise Effectively): Be accountable for your decisions to delegate tasks and duties to other people.",
           "id": "code/section-11.md",
           "resource": "",
@@ -1799,7 +2124,7 @@
             "code 13",
             "section 13"
           ],
-          "body": "# 13. Recognise and work within the limits of your competence\n\nTheme: [Preserve Safety](theme-3-preserve-safety.md)\n\n## To achieve this, you must:\n\n- **13.1** Accurately identify, observe and assess signs of normal or worsening health\n- **13.2** Make a timely referral when any action, care or treatment is required\n- **13.3** Ask for help from a suitably qualified professional when beyond your competence\n- **13.4** Take account of your own personal safety as well as the safety of people in your care\n- **13.5** Complete the necessary training before carrying out a new role\n\n## Assessed through\n- [Platform 1: Being an accountable professional](../platforms/platform-1.md)\n- [Platform 3: Assessing needs and planning care](../platforms/platform-3.md)\n- [Platform 7: Coordinating care](../platforms/platform-7.md)\n",
+          "body": "# 13. Recognise and work within the limits of your competence\n\nTheme: [Preserve Safety](theme-3-preserve-safety.md)\n\n## To achieve this, you must:\n\n- **13.1** Accurately identify, observe and assess signs of normal or worsening health\n- **13.2** Make a timely referral when any action, care or treatment is required\n- **13.3** Ask for help from a suitably qualified professional when beyond your competence\n- **13.4** Take account of your own personal safety as well as the safety of people in your care\n- **13.5** Complete the necessary training before carrying out a new role\n\n## Textual cross-references (proficiency statements)\nNot an official NMC crosswalk \u2014 computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).\n- [Platform 3: Assessing needs and planning care](../platforms/platform-3.md) \u2014 **3.16** (\"refer\")\n",
           "description": "Code section 13 (Preserve Safety): Recognise and work within the limits of your competence.",
           "id": "code/section-13.md",
           "resource": "",
@@ -1821,7 +2146,7 @@
             "code 14",
             "section 14"
           ],
-          "body": "# 14. Be open and candid with all service users about all aspects of care and treatment\n\nTheme: [Preserve Safety](theme-3-preserve-safety.md)\n\n## To achieve this, you must:\n\n- **14.1** Act immediately to put right the situation if someone has suffered actual harm\n- **14.2** Explain fully and promptly what has happened and apologise\n- **14.3** Document all events formally and escalate if appropriate\n\n## Assessed through\n- [Platform 1: Being an accountable professional](../platforms/platform-1.md)\n- [Platform 6: Improving safety and quality of care](../platforms/platform-6.md)\n\n## Key concepts\n- [Duty of candour](../glossary/duty-of-candour.md)\n",
+          "body": "# 14. Be open and candid with all service users about all aspects of care and treatment\n\nTheme: [Preserve Safety](theme-3-preserve-safety.md)\n\n## To achieve this, you must:\n\n- **14.1** Act immediately to put right the situation if someone has suffered actual harm\n- **14.2** Explain fully and promptly what has happened and apologise\n- **14.3** Document all events formally and escalate if appropriate\n\n## Textual cross-references (proficiency statements)\nNot an official NMC crosswalk \u2014 computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).\n- [Platform 1: Being an accountable professional](../platforms/platform-1.md) \u2014 **1.3** (\"candour\")\n\n## Key concepts\n- [Duty of candour](../glossary/duty-of-candour.md)\n",
           "description": "Code section 14 (Preserve Safety): Be open and candid with all service users about all aspects of care and treatment.",
           "id": "code/section-14.md",
           "resource": "",
@@ -1843,7 +2168,7 @@
             "code 15",
             "section 15"
           ],
-          "body": "# 15. Always offer help if an emergency arises\n\nTheme: [Preserve Safety](theme-3-preserve-safety.md)\n\n## To achieve this, you must:\n\n- **15.1** Only act in an emergency within the limits of your knowledge and competence\n- **15.2** Arrange for emergency care to be accessed and provided promptly\n- **15.3** Take account of your own safety and the availability of other options\n",
+          "body": "# 15. Always offer help if an emergency arises\n\nTheme: [Preserve Safety](theme-3-preserve-safety.md)\n\n## To achieve this, you must:\n\n- **15.1** Only act in an emergency within the limits of your knowledge and competence\n- **15.2** Arrange for emergency care to be accessed and provided promptly\n- **15.3** Take account of your own safety and the availability of other options\n\n## Textual cross-references (proficiency statements)\nNot an official NMC crosswalk \u2014 computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).\n- [Platform 7: Coordinating care](../platforms/platform-7.md) \u2014 **7.6** (\"emergency\")\n",
           "description": "Code section 15 (Preserve Safety): Always offer help if an emergency arises.",
           "id": "code/section-15.md",
           "resource": "",
@@ -1865,7 +2190,7 @@
             "code 16",
             "section 16"
           ],
-          "body": "# 16. Act without delay if you believe there is a risk to patient safety or public protection\n\nTheme: [Preserve Safety](theme-3-preserve-safety.md)\n\n## To achieve this, you must:\n\n- **16.1** Raise and escalate concerns about patient or public safety\n- **16.2** Raise concerns immediately if asked to practise beyond your role\n- **16.3** Tell someone in authority if you experience problems preventing you from working within the Code\n- **16.4** Acknowledge and act on all concerns raised to you\n- **16.5** Not obstruct anyone who wants to raise a concern\n- **16.6** Protect anyone you manage from harm after a concern is raised\n\n## Assessed through\n- [Platform 1: Being an accountable professional](../platforms/platform-1.md)\n- [Platform 6: Improving safety and quality of care](../platforms/platform-6.md)\n\n## Key concepts\n- [Raising concerns](../glossary/raising-concerns.md)\n",
+          "body": "# 16. Act without delay if you believe there is a risk to patient safety or public protection\n\nTheme: [Preserve Safety](theme-3-preserve-safety.md)\n\n## To achieve this, you must:\n\n- **16.1** Raise and escalate concerns about patient or public safety\n- **16.2** Raise concerns immediately if asked to practise beyond your role\n- **16.3** Tell someone in authority if you experience problems preventing you from working within the Code\n- **16.4** Acknowledge and act on all concerns raised to you\n- **16.5** Not obstruct anyone who wants to raise a concern\n- **16.6** Protect anyone you manage from harm after a concern is raised\n\n## Textual cross-references (proficiency statements)\nNot an official NMC crosswalk \u2014 computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).\n- [Platform 4: Providing and evaluating care](../platforms/platform-4.md) \u2014 **4.8** (\"escalation\")\n- [Platform 6: Improving safety and quality of care](../platforms/platform-6.md) \u2014 **6.11** (\"public protection\"), **6.2** (\"public protection\")\n\n## Key concepts\n- [Raising concerns](../glossary/raising-concerns.md)\n",
           "description": "Code section 16 (Preserve Safety): Act without delay if you believe there is a risk to patient safety or public protection.",
           "id": "code/section-16.md",
           "resource": "",
@@ -1887,7 +2212,7 @@
             "code 17",
             "section 17"
           ],
-          "body": "# 17. Raise concerns immediately if you believe a person is vulnerable or at risk\n\nTheme: [Preserve Safety](theme-3-preserve-safety.md)\n\n## To achieve this, you must:\n\n- **17.1** Take all reasonable steps to protect vulnerable people from harm, neglect or abuse\n- **17.2** Share information if you believe someone may be at risk of harm\n- **17.3** Have knowledge of and keep to the relevant laws about protecting vulnerable people\n\n## Assessed through\n- [Platform 3: Assessing needs and planning care](../platforms/platform-3.md)\n- [Platform 6: Improving safety and quality of care](../platforms/platform-6.md)\n\n## Key concepts\n- [Safeguarding](../glossary/safeguarding.md)\n",
+          "body": "# 17. Raise concerns immediately if you believe a person is vulnerable or at risk\n\nTheme: [Preserve Safety](theme-3-preserve-safety.md)\n\n## To achieve this, you must:\n\n- **17.1** Take all reasonable steps to protect vulnerable people from harm, neglect or abuse\n- **17.2** Share information if you believe someone may be at risk of harm\n- **17.3** Have knowledge of and keep to the relevant laws about protecting vulnerable people\n\n## Textual cross-references (proficiency statements)\nNot an official NMC crosswalk \u2014 computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).\n- [Platform 3: Assessing needs and planning care](../platforms/platform-3.md) \u2014 **3.9** (\"vulnerable\")\n- [Platform 4: Providing and evaluating care](../platforms/platform-4.md) \u2014 **4.10** (\"safeguarding\"), **4.11** (\"vulnerable\")\n- [Platform 6: Improving safety and quality of care](../platforms/platform-6.md) \u2014 **6.12** (\"safeguarding\")\n\n## Key concepts\n- [Safeguarding](../glossary/safeguarding.md)\n",
           "description": "Code section 17 (Preserve Safety): Raise concerns immediately if you believe a person is vulnerable or at risk.",
           "id": "code/section-17.md",
           "resource": "",
@@ -1909,7 +2234,7 @@
             "code 18",
             "section 18"
           ],
-          "body": "# 18. Advise on, prescribe, supply, dispense or administer medicines within the limits of your training\n\nTheme: [Preserve Safety](theme-3-preserve-safety.md)\n\n## To achieve this, you must:\n\n- **18.1** Prescribe or advise on medicines only if suitably qualified and knowledgeable\n- **18.2** Keep to appropriate guidelines when giving advice on controlled drugs\n- **18.3** Make sure care or treatment is compatible with any other care or treatment\n- **18.4** Take all steps to keep medicines stored securely\n- **18.5** Wherever possible, avoid prescribing for yourself or close personal relationships\n\n## Assessed through\n- [Platform 4: Providing and evaluating care](../platforms/platform-4.md)\n",
+          "body": "# 18. Advise on, prescribe, supply, dispense or administer medicines within the limits of your training\n\nTheme: [Preserve Safety](theme-3-preserve-safety.md)\n\n## To achieve this, you must:\n\n- **18.1** Prescribe or advise on medicines only if suitably qualified and knowledgeable\n- **18.2** Keep to appropriate guidelines when giving advice on controlled drugs\n- **18.3** Make sure care or treatment is compatible with any other care or treatment\n- **18.4** Take all steps to keep medicines stored securely\n- **18.5** Wherever possible, avoid prescribing for yourself or close personal relationships\n\n## Textual cross-references (proficiency statements)\nNot an official NMC crosswalk \u2014 computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).\n- [Platform 4: Providing and evaluating care](../platforms/platform-4.md) \u2014 **4.13** (\"medicines\"), **4.14** (\"medicines\"), **4.15** (\"medicines\")\n",
           "description": "Code section 18 (Preserve Safety): Advise on, prescribe, supply, dispense or administer medicines within the limits of your training.",
           "id": "code/section-18.md",
           "resource": "",
@@ -1931,7 +2256,7 @@
             "code 19",
             "section 19"
           ],
-          "body": "# 19. Be aware of, and reduce as far as possible, any potential for harm associated with your practice\n\nTheme: [Preserve Safety](theme-3-preserve-safety.md)\n\n## To achieve this, you must:\n\n- **19.1** Take measures to reduce the likelihood of mistakes, near misses, harm\n- **19.2** Take account of current evidence in reducing mistakes and the impact of human factors\n- **19.3** Keep to recommended practice in relation to infection prevention and control\n- **19.4** Take all reasonable personal precautions to avoid health risks\n\n## Assessed through\n- [Platform 2: Promoting health and preventing ill health](../platforms/platform-2.md)\n- [Platform 4: Providing and evaluating care](../platforms/platform-4.md)\n- [Platform 6: Improving safety and quality of care](../platforms/platform-6.md)\n",
+          "body": "# 19. Be aware of, and reduce as far as possible, any potential for harm associated with your practice\n\nTheme: [Preserve Safety](theme-3-preserve-safety.md)\n\n## To achieve this, you must:\n\n- **19.1** Take measures to reduce the likelihood of mistakes, near misses, harm\n- **19.2** Take account of current evidence in reducing mistakes and the impact of human factors\n- **19.3** Keep to recommended practice in relation to infection prevention and control\n- **19.4** Take all reasonable personal precautions to avoid health risks\n\n## Textual cross-references (proficiency statements)\nNot an official NMC crosswalk \u2014 computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).\n- [Platform 2: Promoting health and preventing ill health](../platforms/platform-2.md) \u2014 **2.12** (\"infection prevention and control\")\n- [Platform 5: Leading and managing nursing care and working in teams](../platforms/platform-5.md) \u2014 **5.2** (\"human factors\")\n- [Platform 6: Improving safety and quality of care](../platforms/platform-6.md) \u2014 **6.6** (\"near misses\")\n- [Platform 7: Coordinating care](../platforms/platform-7.md) \u2014 **7.3** (\"human factors\")\n",
           "description": "Code section 19 (Preserve Safety): Be aware of, and reduce as far as possible, any potential for harm associated with your practice.",
           "id": "code/section-19.md",
           "resource": "",
@@ -1953,7 +2278,7 @@
             "code 20",
             "section 20"
           ],
-          "body": "# 20. Uphold the reputation of your profession at all times\n\nTheme: [Promote Professionalism and Trust](theme-4-promote-professionalism-and-trust.md)\n\n## To achieve this, you must:\n\n- **20.1** Keep to and uphold the standards and values set out in the Code\n- **20.2** Act with honesty and integrity, without discrimination, bullying or harassment\n- **20.3** Be aware of how your behaviour can affect and influence others\n- **20.4** Keep to the laws of the country in which you are practising\n- **20.5** Treat people in a way that does not take advantage of their vulnerability\n- **20.6** Stay objective and have clear professional boundaries\n- **20.7** Make sure you do not express personal beliefs in an inappropriate way\n- **20.8** Act as a role model for students and newly qualified professionals\n- **20.9** Maintain the level of health you need for your professional role\n- **20.10** Use all forms of communication responsibly, including social media\n\n## Assessed through\n- [Platform 1: Being an accountable professional](../platforms/platform-1.md)\n",
+          "body": "# 20. Uphold the reputation of your profession at all times\n\nTheme: [Promote Professionalism and Trust](theme-4-promote-professionalism-and-trust.md)\n\n## To achieve this, you must:\n\n- **20.1** Keep to and uphold the standards and values set out in the Code\n- **20.2** Act with honesty and integrity, without discrimination, bullying or harassment\n- **20.3** Be aware of how your behaviour can affect and influence others\n- **20.4** Keep to the laws of the country in which you are practising\n- **20.5** Treat people in a way that does not take advantage of their vulnerability\n- **20.6** Stay objective and have clear professional boundaries\n- **20.7** Make sure you do not express personal beliefs in an inappropriate way\n- **20.8** Act as a role model for students and newly qualified professionals\n- **20.9** Maintain the level of health you need for your professional role\n- **20.10** Use all forms of communication responsibly, including social media\n\n## Textual cross-references (proficiency statements)\nNot an official NMC crosswalk \u2014 computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).\n- [Platform 4: Providing and evaluating care](../platforms/platform-4.md) \u2014 **4.1** (\"role model\")\n- [Platform 6: Improving safety and quality of care](../platforms/platform-6.md) \u2014 **6.4** (\"role model\")\n",
           "description": "Code section 20 (Promote Professionalism and Trust): Uphold the reputation of your profession at all times.",
           "id": "code/section-20.md",
           "resource": "",
@@ -1997,7 +2322,7 @@
             "code 22",
             "section 22"
           ],
-          "body": "# 22. Fulfil all registration requirements\n\nTheme: [Promote Professionalism and Trust](theme-4-promote-professionalism-and-trust.md)\n\n## To achieve this, you must:\n\n- **22.1** Meet any reasonable requests so the NMC can oversee the registration process\n- **22.2** Keep to prescribed hours of practice and carry out CPD activities\n- **22.3** Keep your knowledge and skills up to date\n\n## Assessed through\n- [Platform 1: Being an accountable professional](../platforms/platform-1.md)\n\n## Key concepts\n- [Revalidation](../glossary/revalidation.md)\n",
+          "body": "# 22. Fulfil all registration requirements\n\nTheme: [Promote Professionalism and Trust](theme-4-promote-professionalism-and-trust.md)\n\n## To achieve this, you must:\n\n- **22.1** Meet any reasonable requests so the NMC can oversee the registration process\n- **22.2** Keep to prescribed hours of practice and carry out CPD activities\n- **22.3** Keep your knowledge and skills up to date\n\n## Textual cross-references (proficiency statements)\nNot an official NMC crosswalk \u2014 computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).\n- [Platform 1: Being an accountable professional](../platforms/platform-1.md) \u2014 **1.1** (\"registration requirements\")\n\n## Key concepts\n- [Revalidation](../glossary/revalidation.md)\n",
           "description": "Code section 22 (Promote Professionalism and Trust): Fulfil all registration requirements.",
           "id": "code/section-22.md",
           "resource": "",
@@ -2019,7 +2344,7 @@
             "code 23",
             "section 23"
           ],
-          "body": "# 23. Cooperate with all investigations and audits\n\nTheme: [Promote Professionalism and Trust](theme-4-promote-professionalism-and-trust.md)\n\n## To achieve this, you must:\n\n- **23.1** Cooperate with audits of training records and registration records\n- **23.2** Tell the NMC and employers about any caution or charge against you\n- **23.3** Tell employers if your practice has been restricted\n- **23.4** Tell the NMC and employers if disciplined by any regulatory body\n- **23.5** Give your NMC Pin when reasonably requested\n\n## Assessed through\n- [Platform 6: Improving safety and quality of care](../platforms/platform-6.md)\n\n## Key concepts\n- [Fitness to practise](../glossary/fitness-to-practise.md)\n",
+          "body": "# 23. Cooperate with all investigations and audits\n\nTheme: [Promote Professionalism and Trust](theme-4-promote-professionalism-and-trust.md)\n\n## To achieve this, you must:\n\n- **23.1** Cooperate with audits of training records and registration records\n- **23.2** Tell the NMC and employers about any caution or charge against you\n- **23.3** Tell employers if your practice has been restricted\n- **23.4** Tell the NMC and employers if disciplined by any regulatory body\n- **23.5** Give your NMC Pin when reasonably requested\n\n## Textual cross-references (proficiency statements)\nNot an official NMC crosswalk \u2014 computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).\n- [Platform 6: Improving safety and quality of care](../platforms/platform-6.md) \u2014 **6.10** (\"audit\"), **6.8** (\"audit\")\n\n## Key concepts\n- [Fitness to practise](../glossary/fitness-to-practise.md)\n",
           "description": "Code section 23 (Promote Professionalism and Trust): Cooperate with all investigations and audits.",
           "id": "code/section-23.md",
           "resource": "",
@@ -2041,7 +2366,7 @@
             "code 24",
             "section 24"
           ],
-          "body": "# 24. Respond to any complaints made against you professionally\n\nTheme: [Promote Professionalism and Trust](theme-4-promote-professionalism-and-trust.md)\n\n## To achieve this, you must:\n\n- **24.1** Never allow a complaint to affect the care provided\n- **24.2** Use all complaints as feedback and an opportunity for reflection and learning\n\n## Assessed through\n- [Platform 6: Improving safety and quality of care](../platforms/platform-6.md)\n",
+          "body": "# 24. Respond to any complaints made against you professionally\n\nTheme: [Promote Professionalism and Trust](theme-4-promote-professionalism-and-trust.md)\n\n## To achieve this, you must:\n\n- **24.1** Never allow a complaint to affect the care provided\n- **24.2** Use all complaints as feedback and an opportunity for reflection and learning\n",
           "description": "Code section 24 (Promote Professionalism and Trust): Respond to any complaints made against you professionally.",
           "id": "code/section-24.md",
           "resource": "",
@@ -2063,7 +2388,7 @@
             "code 25",
             "section 25"
           ],
-          "body": "# 25. Provide leadership to make sure people's wellbeing is protected\n\nTheme: [Promote Professionalism and Trust](theme-4-promote-professionalism-and-trust.md)\n\n## To achieve this, you must:\n\n- **25.1** Identify priorities, manage time, staff and resources effectively\n- **25.2** Support any staff you are responsible for to follow the Code at all times\n\n## Assessed through\n- [Platform 5: Leading and managing nursing care and working in teams](../platforms/platform-5.md)\n- [Platform 7: Coordinating care](../platforms/platform-7.md)\n",
+          "body": "# 25. Provide leadership to make sure people's wellbeing is protected\n\nTheme: [Promote Professionalism and Trust](theme-4-promote-professionalism-and-trust.md)\n\n## To achieve this, you must:\n\n- **25.1** Identify priorities, manage time, staff and resources effectively\n- **25.2** Support any staff you are responsible for to follow the Code at all times\n\n## Textual cross-references (proficiency statements)\nNot an official NMC crosswalk \u2014 computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).\n- [Platform 5: Leading and managing nursing care and working in teams](../platforms/platform-5.md) \u2014 **5.1** (\"leadership\"), **5.6** (\"leadership\")\n",
           "description": "Code section 25 (Promote Professionalism and Trust): Provide leadership to make sure people's wellbeing is protected.",
           "id": "code/section-25.md",
           "resource": "",
@@ -2367,8 +2692,8 @@
         },
         "index.md": {
           "aliases": [],
-          "body": "# Open Nursing Knowledge Explorer\n\nThe professional standards that govern UK nursing, published by the Nursing and Midwifery Council (NMC), presented as a single cross-linked knowledge graph.\n\n## Contents\n- **[The Code](code/index.md)** \u2014 25 professional standards across 4 themes (2015, updated 2018)\n- **[Proficiency platforms](platforms/index.md)** \u2014 the 7 Future Nurse platforms every registered nurse must achieve (2018)\n- **[Student supervision and assessment](sssa/index.md)** \u2014 the SSSA roles and principles (2018)\n- **[Glossary](glossary/index.md)** \u2014 key professional concepts\n\n## How the pieces fit\nEvery **proficiency platform** maps to the **Code** sections it enacts; the **SSSA** defines who supervises and assesses achievement of the platforms; the **glossary** anchors shared concepts. Use the graph view to see the whole web.\n\n*An open resource from Nursing Citizen Development CIC. Content summarises public NMC standards \u2014 always refer to [nmc.org.uk/standards](https://www.nmc.org.uk/standards/) for the authoritative text.*\n",
-          "description": "The NMC professional standards corpus \u2014 the Code, the Future Nurse proficiency platforms, and the SSSA \u2014 as a cross-linked open knowledge bundle.",
+          "body": "# Open Nursing Knowledge Explorer\n\nThe professional standards that govern UK nursing, published by the Nursing and Midwifery Council (NMC), presented as a single cross-linked knowledge graph.\n\n## Contents\n- **[The Code](code/index.md)** \u2014 25 professional standards across 4 themes (2015, updated 2018)\n- **[Proficiency platforms](platforms/index.md)** \u2014 the 7 Future Nurse platforms, plus [Annexe A](annexes/annexe-a.md) (communication skills) and [Annexe B](annexes/annexe-b.md) (nursing procedures)\n- **[Student supervision and assessment](sssa/index.md)** \u2014 the SSSA roles and principles (2018)\n- **[Glossary](glossary/index.md)** \u2014 key professional concepts\n\n## How the pieces fit\nEvery **proficiency platform** cross-references the **Code** sections it shares wording with; the **SSSA** defines who supervises and assesses achievement of the platforms; the **annexes** are the specific skills and procedures a platform requires; the **glossary** anchors shared concepts. Use the graph view to see the whole web.\n\n## How the Code cross-reference works\nThe links between proficiency statements and Code sections on this site are **not an official NMC crosswalk** \u2014 none is published. They are computed by matching disclosed keyword and phrase evidence between the text of each proficiency statement and the text of each Code section (see `CODE_KEYWORDS` in [`build_nmc_bundle.py`](https://github.com/Clinical-Quality-Artifical-Intelligence/open-nursing-explorer/blob/main/build_nmc_bundle.py)). Every cross-reference shown quotes the specific statement number and the matched phrase, so you can check the reasoning yourself rather than take it on trust.\n\n## Credits and original idea\nThis site is built on the [OKF Explorer](https://github.com/chris-page-gov/okf-explorer), an open-source knowledge-bundle viewer created by **Chris Page** ([@chris-page-gov](https://github.com/chris-page-gov)) \u2014 the Open Knowledge Format and the Svelte app that renders this graph are his design and engineering, used here under the project's MIT licence. This bundle \u2014 the NMC content, the corpus structure, and the Code cross-reference methodology \u2014 was built by Nursing Citizen Development CIC as an application of that idea to UK nursing regulation.\n\n## Keeping this current\nThe Code and the Future Nurse standards are periodically reviewed by the NMC. This repository will be updated whenever the NMC publishes a revised Code or revalidation requirements, or revises the proficiency standards \u2014 the corpus is generated from a build script, so a re-run against updated source text produces a new release. Check the [repository](https://github.com/Clinical-Quality-Artifical-Intelligence/open-nursing-explorer) for the latest version and its build date.\n\n*An open resource from Nursing Citizen Development CIC. Content summarises public NMC standards \u2014 always refer to [nmc.org.uk/standards](https://www.nmc.org.uk/standards/) for the authoritative text.*\n",
+          "description": "The NMC professional standards corpus \u2014 the Code, the Future Nurse proficiency platforms and annexes, and the SSSA \u2014 as a cross-linked open knowledge bundle.",
           "id": "index.md",
           "resource": "https://www.nmc.org.uk/standards/",
           "route_aliases": [
@@ -2383,7 +2708,7 @@
         },
         "platforms/index.md": {
           "aliases": [],
-          "body": "# Standards of proficiency for registered nurses\n\nThe seven platforms (NMC, 2018):\n\n- [Platform 1: Being an accountable professional](platform-1.md)\n- [Platform 2: Promoting health and preventing ill health](platform-2.md)\n- [Platform 3: Assessing needs and planning care](platform-3.md)\n- [Platform 4: Providing and evaluating care](platform-4.md)\n- [Platform 5: Leading and managing nursing care and working in teams](platform-5.md)\n- [Platform 6: Improving safety and quality of care](platform-6.md)\n- [Platform 7: Coordinating care](platform-7.md)\n\nPlus **Annexe A** (communication and relationship management skills) and **Annexe B** (nursing procedures).\n\nAchievement is supervised and assessed under the [SSSA](../sssa/index.md). Every platform enacts sections of [the Code](../code/index.md). Back to the [explorer root](../index.md).\n",
+          "body": "# Standards of proficiency for registered nurses\n\nThe seven platforms (NMC, 2018):\n\n- [Platform 1: Being an accountable professional](platform-1.md)\n- [Platform 2: Promoting health and preventing ill health](platform-2.md)\n- [Platform 3: Assessing needs and planning care](platform-3.md)\n- [Platform 4: Providing and evaluating care](platform-4.md)\n- [Platform 5: Leading and managing nursing care and working in teams](platform-5.md)\n- [Platform 6: Improving safety and quality of care](platform-6.md)\n- [Platform 7: Coordinating care](platform-7.md)\n\nPlus **[Annexe A](../annexes/annexe-a.md)** (communication and relationship management skills) and **[Annexe B](../annexes/annexe-b.md)** (nursing procedures).\n\nAchievement is supervised and assessed under the [SSSA](../sssa/index.md). Every platform cross-references sections of [the Code](../code/index.md) \u2014 see the [methodology](../index.md#how-the-code-crossreference-works). Back to the [explorer root](../index.md).\n",
           "description": "The seven Future Nurse proficiency platforms (NMC, 2018) that every registered nurse must achieve at the point of registration.",
           "id": "platforms/index.md",
           "resource": "https://www.nmc.org.uk/standards/standards-for-nurses/standards-of-proficiency-for-registered-nurses/",
@@ -2402,7 +2727,7 @@
           "aliases": [
             "platform 1"
           ],
-          "body": "# Platform 1: Being an accountable professional\n\nAt the point of registration, the registered nurse will be able to:\n\n- **1.1** Understand and act in accordance with The Code: Professional standards of practice and behaviour for nurses, midwives and nursing associates, and fulfil all registration requirements\n- **1.2** Understand and apply relevant legal, regulatory and governance requirements, policies, and ethical frameworks, including any mandatory reporting duties, to all areas of practice, differentiating where legislation applies to the countries of the United Kingdom\n- **1.3** Understand and apply the principles of courage, transparency and the professional duty of candour, recognising and reporting any situations, behaviours or errors that could result in poor care outcomes\n- **1.4** Demonstrate an understanding of, and the ability to, challenge or report discriminatory behaviour\n- **1.5** Understand the demands of professional practice and demonstrate how to recognise signs of vulnerability in themselves or colleagues and the action required to minimise risks to health\n- **1.6** Understand the professional responsibility to adopt a healthy lifestyle to maintain the level of health required to meet people's needs for mental and physical care\n- **1.7** Understand and apply the principles of partnership, collaboration and interagency working across health and social care services\n- **1.8** Demonstrate the knowledge, skills and ability to think critically when applying evidence and drawing on experience to make evidence-informed decisions in all situations\n- **1.9** Understand the need to base all decisions regarding care and interventions on people's needs and preferences, recognising and addressing any personal biases\n- **1.10** Demonstrate resilience and emotional intelligence and be capable of explaining the rationale that influences their judgements and decisions in routine, complex and challenging situations\n- **1.11** Communicate effectively using a range of skills and strategies with colleagues and people at all stages of life and with a range of mental, physical, cognitive and behavioural health challenges\n- **1.12** Demonstrate the skills and abilities required to support people in their own care to maximise health outcomes and quality of life\n- **1.13** Demonstrate the skills and abilities required to develop, manage and maintain appropriate relationships with people, their families, carers and colleagues\n- **1.14** Provide and promote non-discriminatory, person-centred and sensitive care at all times, reflecting on people's values and beliefs, diverse backgrounds, cultural characteristics, language requirements, needs and preferences, taking account of any need for adjustments\n- **1.15** Demonstrate the numeracy, literacy, digital and technological literacy skills required to meet the needs of people in their care to ensure safe and effective nursing practice\n- **1.16** Demonstrate the ability to keep complete, clear, accurate, and timely records\n- **1.17** Take responsibility for continuous self-reflection, seeking and responding to support and feedback to develop professional knowledge and skills\n- **1.18** Demonstrate the knowledge and confidence to contribute effectively and proactively in an interdisciplinary team\n- **1.19** Act as an ambassador for their profession and promote public confidence in nursing, health and care services\n- **1.20** Safely demonstrate evidence-based practice in all skills and procedures in Annexes A and B\n\n## Related Code sections\n- [Code section 1](../code/section-01.md)\n- [Code section 4](../code/section-04.md)\n- [Code section 6](../code/section-06.md)\n- [Code section 10](../code/section-10.md)\n- [Code section 13](../code/section-13.md)\n- [Code section 14](../code/section-14.md)\n- [Code section 16](../code/section-16.md)\n- [Code section 20](../code/section-20.md)\n- [Code section 22](../code/section-22.md)\n\n## Assessment\nAchievement is assessed in practice under the [Standards for Student Supervision and Assessment](../sssa/index.md).\n",
+          "body": "# Platform 1: Being an accountable professional\n\nAt the point of registration, the registered nurse will be able to:\n\n- **1.1** Understand and act in accordance with The Code: Professional standards of practice and behaviour for nurses, midwives and nursing associates, and fulfil all registration requirements\n- **1.2** Understand and apply relevant legal, regulatory and governance requirements, policies, and ethical frameworks, including any mandatory reporting duties, to all areas of practice, differentiating where legislation applies to the countries of the United Kingdom\n- **1.3** Understand and apply the principles of courage, transparency and the professional duty of candour, recognising and reporting any situations, behaviours or errors that could result in poor care outcomes\n- **1.4** Demonstrate an understanding of, and the ability to, challenge or report discriminatory behaviour\n- **1.5** Understand the demands of professional practice and demonstrate how to recognise signs of vulnerability in themselves or colleagues and the action required to minimise risks to health\n- **1.6** Understand the professional responsibility to adopt a healthy lifestyle to maintain the level of health required to meet people's needs for mental and physical care\n- **1.7** Understand and apply the principles of partnership, collaboration and interagency working across health and social care services\n- **1.8** Demonstrate the knowledge, skills and ability to think critically when applying evidence and drawing on experience to make evidence-informed decisions in all situations\n- **1.9** Understand the need to base all decisions regarding care and interventions on people's needs and preferences, recognising and addressing any personal biases\n- **1.10** Demonstrate resilience and emotional intelligence and be capable of explaining the rationale that influences their judgements and decisions in routine, complex and challenging situations\n- **1.11** Communicate effectively using a range of skills and strategies with colleagues and people at all stages of life and with a range of mental, physical, cognitive and behavioural health challenges\n- **1.12** Demonstrate the skills and abilities required to support people in their own care to maximise health outcomes and quality of life\n- **1.13** Demonstrate the skills and abilities required to develop, manage and maintain appropriate relationships with people, their families, carers and colleagues\n- **1.14** Provide and promote non-discriminatory, person-centred and sensitive care at all times, reflecting on people's values and beliefs, diverse backgrounds, cultural characteristics, language requirements, needs and preferences, taking account of any need for adjustments\n- **1.15** Demonstrate the numeracy, literacy, digital and technological literacy skills required to meet the needs of people in their care to ensure safe and effective nursing practice\n- **1.16** Demonstrate the ability to keep complete, clear, accurate, and timely records\n- **1.17** Take responsibility for continuous self-reflection, seeking and responding to support and feedback to develop professional knowledge and skills\n- **1.18** Demonstrate the knowledge and confidence to contribute effectively and proactively in an interdisciplinary team\n- **1.19** Act as an ambassador for their profession and promote public confidence in nursing, health and care services\n- **1.20** Safely demonstrate evidence-based practice in all skills and procedures in Annexes A and B\n\n## Textual cross-references (Code sections)\nNot an official NMC crosswalk \u2014 computed by matching shared wording between proficiency statement text and Code section text. See [methodology](../index.md#how-the-code-crossreference-works).\n- [Code section 6](../code/section-06.md) \u2014 **1.20** (\"evidence-based\")\n- [Code section 10](../code/section-10.md) \u2014 **1.16** (\"records\")\n- [Code section 14](../code/section-14.md) \u2014 **1.3** (\"candour\")\n- [Code section 22](../code/section-22.md) \u2014 **1.1** (\"registration requirements\")\n\n## Skills required\nDemonstrated through [Annexe A](../annexes/annexe-a.md) (communication and relationship management skills) and [Annexe B](../annexes/annexe-b.md) (nursing procedures) \u2014 see proficiency 1.20.\n\n## Assessment\nAchievement is assessed in practice under the [Standards for Student Supervision and Assessment](../sssa/index.md).\n",
           "description": "The 20 proficiency statements of Future Nurse platform 1 \u2014 Being an accountable professional.",
           "id": "platforms/platform-1.md",
           "resource": "",
@@ -2422,7 +2747,7 @@
           "aliases": [
             "platform 2"
           ],
-          "body": "# Platform 2: Promoting health and preventing ill health\n\nAt the point of registration, the registered nurse will be able to:\n\n- **2.1** Understand and apply the aims and principles of health promotion, protection, improvement and ill health prevention when engaging with people\n- **2.2** Demonstrate knowledge of epidemiology, demography, genomics and the wider determinants of health, illness and wellbeing and apply this to an understanding of global patterns of health and wellbeing outcomes\n- **2.3** Understand the factors that may lead to inequalities in health outcomes\n- **2.4** Identify and use all appropriate opportunities, making every contact count, to promote health and prevent ill health\n- **2.5** Promote and improve mental, physical, behavioural and other health-related outcomes by understanding and explaining the principles, practice and evidence-base for health screening programmes\n- **2.6** Understand the importance of early years and childhood experiences and the possible impact on life choices, mental, physical and behavioural health and wellbeing\n- **2.7** Understand and explain the contribution of social influences, health literacy, individual circumstances, behaviours and lifestyle choices to mental, physical and behavioural health outcomes\n- **2.8** Explain and demonstrate the use of up-to-date approaches to behaviour change to enable people to use their strengths and expertise and make informed choices when managing their own health and making lifestyle adjustments\n- **2.9** Use appropriate communication skills and strength-based approaches to support and enable people to make informed choices about their care to manage health challenges in order to have satisfying and fulfilling lives within the limitations caused by reduced capability, ill health and disability\n- **2.10** Provide information in accessible formats to help people understand and make decisions about their health\n- **2.11** Promote health and prevent ill health by understanding and explaining to people the principles of pathogenesis, immunology and the evidence-base for immunisation, vaccination and herd immunity\n- **2.12** Protect health through understanding and applying the principles of infection prevention and control, including communicable disease surveillance and antimicrobial stewardship and resistance\n\n## Related Code sections\n- [Code section 2](../code/section-02.md)\n- [Code section 3](../code/section-03.md)\n- [Code section 19](../code/section-19.md)\n\n## Assessment\nAchievement is assessed in practice under the [Standards for Student Supervision and Assessment](../sssa/index.md).\n",
+          "body": "# Platform 2: Promoting health and preventing ill health\n\nAt the point of registration, the registered nurse will be able to:\n\n- **2.1** Understand and apply the aims and principles of health promotion, protection, improvement and ill health prevention when engaging with people\n- **2.2** Demonstrate knowledge of epidemiology, demography, genomics and the wider determinants of health, illness and wellbeing and apply this to an understanding of global patterns of health and wellbeing outcomes\n- **2.3** Understand the factors that may lead to inequalities in health outcomes\n- **2.4** Identify and use all appropriate opportunities, making every contact count, to promote health and prevent ill health\n- **2.5** Promote and improve mental, physical, behavioural and other health-related outcomes by understanding and explaining the principles, practice and evidence-base for health screening programmes\n- **2.6** Understand the importance of early years and childhood experiences and the possible impact on life choices, mental, physical and behavioural health and wellbeing\n- **2.7** Understand and explain the contribution of social influences, health literacy, individual circumstances, behaviours and lifestyle choices to mental, physical and behavioural health outcomes\n- **2.8** Explain and demonstrate the use of up-to-date approaches to behaviour change to enable people to use their strengths and expertise and make informed choices when managing their own health and making lifestyle adjustments\n- **2.9** Use appropriate communication skills and strength-based approaches to support and enable people to make informed choices about their care to manage health challenges in order to have satisfying and fulfilling lives within the limitations caused by reduced capability, ill health and disability\n- **2.10** Provide information in accessible formats to help people understand and make decisions about their health\n- **2.11** Promote health and prevent ill health by understanding and explaining to people the principles of pathogenesis, immunology and the evidence-base for immunisation, vaccination and herd immunity\n- **2.12** Protect health through understanding and applying the principles of infection prevention and control, including communicable disease surveillance and antimicrobial stewardship and resistance\n\n## Textual cross-references (Code sections)\nNot an official NMC crosswalk \u2014 computed by matching shared wording between proficiency statement text and Code section text. See [methodology](../index.md#how-the-code-crossreference-works).\n- [Code section 7](../code/section-07.md) \u2014 **2.9** (\"communication skills\")\n- [Code section 19](../code/section-19.md) \u2014 **2.12** (\"infection prevention and control\")\n\n## Skills required\nDemonstrated through [Annexe A](../annexes/annexe-a.md) (communication and relationship management skills) and [Annexe B](../annexes/annexe-b.md) (nursing procedures) \u2014 see proficiency 1.20.\n\n## Assessment\nAchievement is assessed in practice under the [Standards for Student Supervision and Assessment](../sssa/index.md).\n",
           "description": "The 12 proficiency statements of Future Nurse platform 2 \u2014 Promoting health and preventing ill health.",
           "id": "platforms/platform-2.md",
           "resource": "",
@@ -2442,7 +2767,7 @@
           "aliases": [
             "platform 3"
           ],
-          "body": "# Platform 3: Assessing needs and planning care\n\nAt the point of registration, the registered nurse will be able to:\n\n- **3.1** Demonstrate an understanding of human development from conception to death, to enable appropriate assessment of the changing needs of people across the lifespan\n- **3.2** Demonstrate and apply knowledge of body systems and homeostasis, human anatomy and physiology, biology, genomics, pharmacology and social and behavioural sciences when undertaking full and accurate person-centred nursing assessments and developing appropriate care plans\n- **3.3** Demonstrate and apply knowledge of all commonly encountered mental, physical, behavioural and cognitive health conditions, medication usage and treatments when undertaking full and accurate assessments of nursing care needs and when developing, prioritising and reviewing person-centred care plans\n- **3.4** Understand and apply a person-centred approach to nursing care, demonstrating shared assessment, planning, decision-making and goal setting when working with people, families, communities and populations of all ages\n- **3.5** Demonstrate the ability to accurately process all information gathered during the assessment process to identify needs for individualised nursing care and develop person-centred, evidence-based care plans\n- **3.6** Effectively assess a person's capacity to make decisions about their own care and to give or withhold consent\n- **3.7** Understand and apply the principles and processes for making reasonable adjustments\n- **3.8** Understand and apply the relevant laws about mental capacity for the country in which you are practising when making decisions in relation to mental capacity\n- **3.9** Recognise and assess people at risk of harm and the situations that may put them at risk, ensuring prompt action is taken to safeguard those who are vulnerable\n- **3.10** Demonstrate the skills and abilities required to recognise and assess people who show signs of self-harm and/or suicidal ideation\n- **3.11** Undertake routine investigations, interpreting and sharing findings as appropriate\n- **3.12** Interpret results from routine investigations, taking prompt action when required by implementing appropriate nursing interventions\n- **3.13** Demonstrate an understanding of co-morbidities and the demands of treatment on people, as well as their ability to comply with treatment and make informed lifestyle choices\n- **3.14** Identify and assess the needs of people and families to develop, deliver and evaluate care to achieve positive outcomes\n- **3.15** Demonstrate the ability to work in partnership with people, families and carers\n- **3.16** Demonstrate knowledge of when and how to refer people safely to other professionals or services for clinical intervention or support\n\n## Related Code sections\n- [Code section 2](../code/section-02.md)\n- [Code section 3](../code/section-03.md)\n- [Code section 4](../code/section-04.md)\n- [Code section 10](../code/section-10.md)\n- [Code section 13](../code/section-13.md)\n- [Code section 17](../code/section-17.md)\n\n## Assessment\nAchievement is assessed in practice under the [Standards for Student Supervision and Assessment](../sssa/index.md).\n",
+          "body": "# Platform 3: Assessing needs and planning care\n\nAt the point of registration, the registered nurse will be able to:\n\n- **3.1** Demonstrate an understanding of human development from conception to death, to enable appropriate assessment of the changing needs of people across the lifespan\n- **3.2** Demonstrate and apply knowledge of body systems and homeostasis, human anatomy and physiology, biology, genomics, pharmacology and social and behavioural sciences when undertaking full and accurate person-centred nursing assessments and developing appropriate care plans\n- **3.3** Demonstrate and apply knowledge of all commonly encountered mental, physical, behavioural and cognitive health conditions, medication usage and treatments when undertaking full and accurate assessments of nursing care needs and when developing, prioritising and reviewing person-centred care plans\n- **3.4** Understand and apply a person-centred approach to nursing care, demonstrating shared assessment, planning, decision-making and goal setting when working with people, families, communities and populations of all ages\n- **3.5** Demonstrate the ability to accurately process all information gathered during the assessment process to identify needs for individualised nursing care and develop person-centred, evidence-based care plans\n- **3.6** Effectively assess a person's capacity to make decisions about their own care and to give or withhold consent\n- **3.7** Understand and apply the principles and processes for making reasonable adjustments\n- **3.8** Understand and apply the relevant laws about mental capacity for the country in which you are practising when making decisions in relation to mental capacity\n- **3.9** Recognise and assess people at risk of harm and the situations that may put them at risk, ensuring prompt action is taken to safeguard those who are vulnerable\n- **3.10** Demonstrate the skills and abilities required to recognise and assess people who show signs of self-harm and/or suicidal ideation\n- **3.11** Undertake routine investigations, interpreting and sharing findings as appropriate\n- **3.12** Interpret results from routine investigations, taking prompt action when required by implementing appropriate nursing interventions\n- **3.13** Demonstrate an understanding of co-morbidities and the demands of treatment on people, as well as their ability to comply with treatment and make informed lifestyle choices\n- **3.14** Identify and assess the needs of people and families to develop, deliver and evaluate care to achieve positive outcomes\n- **3.15** Demonstrate the ability to work in partnership with people, families and carers\n- **3.16** Demonstrate knowledge of when and how to refer people safely to other professionals or services for clinical intervention or support\n\n## Textual cross-references (Code sections)\nNot an official NMC crosswalk \u2014 computed by matching shared wording between proficiency statement text and Code section text. See [methodology](../index.md#how-the-code-crossreference-works).\n- [Code section 4](../code/section-04.md) \u2014 **3.6** (\"consent\"), **3.8** (\"mental capacity\")\n- [Code section 6](../code/section-06.md) \u2014 **3.5** (\"evidence-based\")\n- [Code section 13](../code/section-13.md) \u2014 **3.16** (\"refer\")\n- [Code section 17](../code/section-17.md) \u2014 **3.9** (\"vulnerable\")\n\n## Skills required\nDemonstrated through [Annexe A](../annexes/annexe-a.md) (communication and relationship management skills) and [Annexe B](../annexes/annexe-b.md) (nursing procedures) \u2014 see proficiency 1.20.\n\n## Assessment\nAchievement is assessed in practice under the [Standards for Student Supervision and Assessment](../sssa/index.md).\n",
           "description": "The 16 proficiency statements of Future Nurse platform 3 \u2014 Assessing needs and planning care.",
           "id": "platforms/platform-3.md",
           "resource": "",
@@ -2462,7 +2787,7 @@
           "aliases": [
             "platform 4"
           ],
-          "body": "# Platform 4: Providing and evaluating care\n\nAt the point of registration, the registered nurse will be able to:\n\n- **4.1** Demonstrate and apply an understanding of what is important to people, and how to use this to ensure their needs for safety, dignity, privacy, comfort and sleep can be met, acting as a role model for others in providing evidence-based person-centred care\n- **4.2** Work in partnership with people to encourage shared decision-making, to support individuals, their families and carers to manage their own care when appropriate\n- **4.3** Demonstrate the knowledge, communication and relationship management skills needed to provide people, families and carers with accurate, impartial and personalised information and support\n- **4.4** Demonstrate the knowledge and skills required to support people with commonly encountered physical health conditions, their medication usage and treatments\n- **4.5** Demonstrate the knowledge and skills required to support people with commonly encountered mental health conditions, their medication usage and treatments\n- **4.6** Demonstrate the knowledge and skills required to support people with commonly encountered cognitive health conditions, their medication usage and treatments\n- **4.7** Demonstrate the knowledge and skills required to support people with learning disabilities, their medication usage and treatments\n- **4.8** Demonstrate the knowledge and skills required to identify and initiate appropriate and evidence-based interventions including escalation\n- **4.9** Demonstrate the knowledge and skills required to prioritise what is important to people, including managing comfort and pain effectively\n- **4.10** Demonstrate the knowledge and skills to meet complex care needs, including managing anxiety, delirium, self-harm and safeguarding concerns\n- **4.11** Demonstrate the skills to act as an advocate for the vulnerable, applying the principles of safeguarding and making every contact count\n- **4.12** Demonstrate the ability to manage commonly encountered symptoms including anxiety, confusion, discomfort, distress and pain\n- **4.13** Demonstrate an understanding of medicines optimisation, the potential adverse reactions and the potential to improve outcomes\n- **4.14** Understand the principles of safe and effective administration and optimisation of medicines in accordance with local and national policies and the management of symptoms through the administration and monitoring of medicines\n- **4.15** Demonstrate knowledge of pharmacology and the ability to recognise the effects of medicines, allergies, drug sensitivities, side effects, drug interactions and adverse reactions\n- **4.16** Demonstrate the ability to recognise the signs of deterioration and the ability to respond in a timely manner\n- **4.17** Demonstrate the skills required to provide basic and complex life support\n- **4.18** Demonstrate the ability to manage end-of-life care, implementing evidence-based approaches for the assessment and management of symptoms at the end of life\n\n## Related Code sections\n- [Code section 1](../code/section-01.md)\n- [Code section 2](../code/section-02.md)\n- [Code section 3](../code/section-03.md)\n- [Code section 6](../code/section-06.md)\n- [Code section 18](../code/section-18.md)\n- [Code section 19](../code/section-19.md)\n\n## Assessment\nAchievement is assessed in practice under the [Standards for Student Supervision and Assessment](../sssa/index.md).\n",
+          "body": "# Platform 4: Providing and evaluating care\n\nAt the point of registration, the registered nurse will be able to:\n\n- **4.1** Demonstrate and apply an understanding of what is important to people, and how to use this to ensure their needs for safety, dignity, privacy, comfort and sleep can be met, acting as a role model for others in providing evidence-based person-centred care\n- **4.2** Work in partnership with people to encourage shared decision-making, to support individuals, their families and carers to manage their own care when appropriate\n- **4.3** Demonstrate the knowledge, communication and relationship management skills needed to provide people, families and carers with accurate, impartial and personalised information and support\n- **4.4** Demonstrate the knowledge and skills required to support people with commonly encountered physical health conditions, their medication usage and treatments\n- **4.5** Demonstrate the knowledge and skills required to support people with commonly encountered mental health conditions, their medication usage and treatments\n- **4.6** Demonstrate the knowledge and skills required to support people with commonly encountered cognitive health conditions, their medication usage and treatments\n- **4.7** Demonstrate the knowledge and skills required to support people with learning disabilities, their medication usage and treatments\n- **4.8** Demonstrate the knowledge and skills required to identify and initiate appropriate and evidence-based interventions including escalation\n- **4.9** Demonstrate the knowledge and skills required to prioritise what is important to people, including managing comfort and pain effectively\n- **4.10** Demonstrate the knowledge and skills to meet complex care needs, including managing anxiety, delirium, self-harm and safeguarding concerns\n- **4.11** Demonstrate the skills to act as an advocate for the vulnerable, applying the principles of safeguarding and making every contact count\n- **4.12** Demonstrate the ability to manage commonly encountered symptoms including anxiety, confusion, discomfort, distress and pain\n- **4.13** Demonstrate an understanding of medicines optimisation, the potential adverse reactions and the potential to improve outcomes\n- **4.14** Understand the principles of safe and effective administration and optimisation of medicines in accordance with local and national policies and the management of symptoms through the administration and monitoring of medicines\n- **4.15** Demonstrate knowledge of pharmacology and the ability to recognise the effects of medicines, allergies, drug sensitivities, side effects, drug interactions and adverse reactions\n- **4.16** Demonstrate the ability to recognise the signs of deterioration and the ability to respond in a timely manner\n- **4.17** Demonstrate the skills required to provide basic and complex life support\n- **4.18** Demonstrate the ability to manage end-of-life care, implementing evidence-based approaches for the assessment and management of symptoms at the end of life\n\n## Textual cross-references (Code sections)\nNot an official NMC crosswalk \u2014 computed by matching shared wording between proficiency statement text and Code section text. See [methodology](../index.md#how-the-code-crossreference-works).\n- [Code section 1](../code/section-01.md) \u2014 **4.1** (\"dignity\")\n- [Code section 2](../code/section-02.md) \u2014 **4.2** (\"shared decision\")\n- [Code section 6](../code/section-06.md) \u2014 **4.1** (\"evidence-based\"), **4.18** (\"evidence-based\"), **4.8** (\"evidence-based\")\n- [Code section 16](../code/section-16.md) \u2014 **4.8** (\"escalation\")\n- [Code section 17](../code/section-17.md) \u2014 **4.10** (\"safeguarding\"), **4.11** (\"vulnerable\")\n- [Code section 18](../code/section-18.md) \u2014 **4.13** (\"medicines\"), **4.14** (\"medicines\"), **4.15** (\"medicines\")\n- [Code section 20](../code/section-20.md) \u2014 **4.1** (\"role model\")\n\n## Skills required\nDemonstrated through [Annexe A](../annexes/annexe-a.md) (communication and relationship management skills) and [Annexe B](../annexes/annexe-b.md) (nursing procedures) \u2014 see proficiency 1.20.\n\n## Assessment\nAchievement is assessed in practice under the [Standards for Student Supervision and Assessment](../sssa/index.md).\n",
           "description": "The 18 proficiency statements of Future Nurse platform 4 \u2014 Providing and evaluating care.",
           "id": "platforms/platform-4.md",
           "resource": "",
@@ -2482,7 +2807,7 @@
           "aliases": [
             "platform 5"
           ],
-          "body": "# Platform 5: Leading and managing nursing care and working in teams\n\nAt the point of registration, the registered nurse will be able to:\n\n- **5.1** Understand the principles of effective leadership, management, group and organisational dynamics and culture and apply these to team working and the delivery of person-centred care\n- **5.2** Understand and apply the principles of human factors, environmental factors and strength-based approaches when working in teams\n- **5.3** Understand the principles and application of processes for performance management and how these apply to the nursing team\n- **5.4** Demonstrate an understanding of the roles, responsibilities and scope of practice of all members of the nursing and interdisciplinary team, and how to make best use of the contributions of others involved in providing care\n- **5.5** Safely and effectively lead and manage the nursing care of a group of people, demonstrating appropriate prioritisation, delegation, and assignment of care responsibilities to others involved in providing care\n- **5.6** Exhibit leadership potential by demonstrating an ability to guide, support and motivate individuals and interact confidently with other members of the care team\n- **5.7** Demonstrate the ability to monitor and evaluate the quality of care delivered by others in the team and lay carers\n- **5.8** Support and supervise students in the delivery of nursing care, promoting reflection and providing constructive feedback, and facilitating the development of their competence\n- **5.9** Demonstrate the ability to challenge and provide constructive feedback about care delivered by others in the team, and to support them to identify and agree individual learning needs\n- **5.10** Contribute to supervision and team reflection activities to promote improvements in practice and services\n- **5.11** Effectively and responsibly use a range of digital technologies to access, input, share and apply information and data within teams and between agencies\n- **5.12** Understand the mechanisms that can be used to influence organisational change and public policy to support quality improvement and sustainability in health and care\n\n## Related Code sections\n- [Code section 8](../code/section-08.md)\n- [Code section 9](../code/section-09.md)\n- [Code section 11](../code/section-11.md)\n- [Code section 25](../code/section-25.md)\n\n## Assessment\nAchievement is assessed in practice under the [Standards for Student Supervision and Assessment](../sssa/index.md).\n",
+          "body": "# Platform 5: Leading and managing nursing care and working in teams\n\nAt the point of registration, the registered nurse will be able to:\n\n- **5.1** Understand the principles of effective leadership, management, group and organisational dynamics and culture and apply these to team working and the delivery of person-centred care\n- **5.2** Understand and apply the principles of human factors, environmental factors and strength-based approaches when working in teams\n- **5.3** Understand the principles and application of processes for performance management and how these apply to the nursing team\n- **5.4** Demonstrate an understanding of the roles, responsibilities and scope of practice of all members of the nursing and interdisciplinary team, and how to make best use of the contributions of others involved in providing care\n- **5.5** Safely and effectively lead and manage the nursing care of a group of people, demonstrating appropriate prioritisation, delegation, and assignment of care responsibilities to others involved in providing care\n- **5.6** Exhibit leadership potential by demonstrating an ability to guide, support and motivate individuals and interact confidently with other members of the care team\n- **5.7** Demonstrate the ability to monitor and evaluate the quality of care delivered by others in the team and lay carers\n- **5.8** Support and supervise students in the delivery of nursing care, promoting reflection and providing constructive feedback, and facilitating the development of their competence\n- **5.9** Demonstrate the ability to challenge and provide constructive feedback about care delivered by others in the team, and to support them to identify and agree individual learning needs\n- **5.10** Contribute to supervision and team reflection activities to promote improvements in practice and services\n- **5.11** Effectively and responsibly use a range of digital technologies to access, input, share and apply information and data within teams and between agencies\n- **5.12** Understand the mechanisms that can be used to influence organisational change and public policy to support quality improvement and sustainability in health and care\n\n## Textual cross-references (Code sections)\nNot an official NMC crosswalk \u2014 computed by matching shared wording between proficiency statement text and Code section text. See [methodology](../index.md#how-the-code-crossreference-works).\n- [Code section 9](../code/section-09.md) \u2014 **5.8** (\"constructive feedback\"), **5.9** (\"constructive feedback\")\n- [Code section 11](../code/section-11.md) \u2014 **5.5** (\"delegation\")\n- [Code section 19](../code/section-19.md) \u2014 **5.2** (\"human factors\")\n- [Code section 25](../code/section-25.md) \u2014 **5.1** (\"leadership\"), **5.6** (\"leadership\")\n\n## Skills required\nDemonstrated through [Annexe A](../annexes/annexe-a.md) (communication and relationship management skills) and [Annexe B](../annexes/annexe-b.md) (nursing procedures) \u2014 see proficiency 1.20.\n\n## Assessment\nAchievement is assessed in practice under the [Standards for Student Supervision and Assessment](../sssa/index.md).\n",
           "description": "The 12 proficiency statements of Future Nurse platform 5 \u2014 Leading and managing nursing care and working in teams.",
           "id": "platforms/platform-5.md",
           "resource": "",
@@ -2502,7 +2827,7 @@
           "aliases": [
             "platform 6"
           ],
-          "body": "# Platform 6: Improving safety and quality of care\n\nAt the point of registration, the registered nurse will be able to:\n\n- **6.1** Understand and apply the principles of health and safety legislation and regulations and maintain safe work and care environments\n- **6.2** Understand the relationship between safe staffing levels, appropriate skills mix, safety and quality of care, recognising risks to public protection and quality of care\n- **6.3** Comply with local and national frameworks, legislation and regulations for assessing, managing and reporting risks, ensuring the appropriate action is taken\n- **6.4** Demonstrate the knowledge, skills and ability to act as a role model for others in providing evidence-based nursing care to meet people's needs related to safety\n- **6.5** Demonstrate knowledge and understanding of the application of organisational systems and processes for the purpose of managing risk\n- **6.6** Identify, report and critically reflect on near misses, critical incidents, major incidents and serious adverse events and the actions that must be taken\n- **6.7** Understand the principles of quality improvement methodologies and apply these in practice settings to contribute to improvements in care quality\n- **6.8** Demonstrate an understanding of the principles of clinical audit and the application of audit processes to improve standards of care\n- **6.9** Be aware of and understand the principles of research governance, research ethics and the importance of research in evidence-based practice\n- **6.10** Understand the principles of improvement methodologies, the ## processes of service evaluation and the role of quality standards, audit, peer review and how they can be used to improve care\n- **6.11** Manage risks to public protection, recognising the critical importance of accurate record keeping, and the need to use the available evidence base to inform care decisions\n- **6.12** Understand the role of registered nurses and others to identify, assess and respond to actual or potential safeguarding situations\n\n## Related Code sections\n- [Code section 14](../code/section-14.md)\n- [Code section 16](../code/section-16.md)\n- [Code section 17](../code/section-17.md)\n- [Code section 19](../code/section-19.md)\n- [Code section 23](../code/section-23.md)\n- [Code section 24](../code/section-24.md)\n\n## Assessment\nAchievement is assessed in practice under the [Standards for Student Supervision and Assessment](../sssa/index.md).\n",
+          "body": "# Platform 6: Improving safety and quality of care\n\nAt the point of registration, the registered nurse will be able to:\n\n- **6.1** Understand and apply the principles of health and safety legislation and regulations and maintain safe work and care environments\n- **6.2** Understand the relationship between safe staffing levels, appropriate skills mix, safety and quality of care, recognising risks to public protection and quality of care\n- **6.3** Comply with local and national frameworks, legislation and regulations for assessing, managing and reporting risks, ensuring the appropriate action is taken\n- **6.4** Demonstrate the knowledge, skills and ability to act as a role model for others in providing evidence-based nursing care to meet people's needs related to safety\n- **6.5** Demonstrate knowledge and understanding of the application of organisational systems and processes for the purpose of managing risk\n- **6.6** Identify, report and critically reflect on near misses, critical incidents, major incidents and serious adverse events and the actions that must be taken\n- **6.7** Understand the principles of quality improvement methodologies and apply these in practice settings to contribute to improvements in care quality\n- **6.8** Demonstrate an understanding of the principles of clinical audit and the application of audit processes to improve standards of care\n- **6.9** Be aware of and understand the principles of research governance, research ethics and the importance of research in evidence-based practice\n- **6.10** Understand the principles of improvement methodologies, the ## processes of service evaluation and the role of quality standards, audit, peer review and how they can be used to improve care\n- **6.11** Manage risks to public protection, recognising the critical importance of accurate record keeping, and the need to use the available evidence base to inform care decisions\n- **6.12** Understand the role of registered nurses and others to identify, assess and respond to actual or potential safeguarding situations\n\n## Textual cross-references (Code sections)\nNot an official NMC crosswalk \u2014 computed by matching shared wording between proficiency statement text and Code section text. See [methodology](../index.md#how-the-code-crossreference-works).\n- [Code section 6](../code/section-06.md) \u2014 **6.11** (\"evidence base\"), **6.4** (\"evidence-based\"), **6.9** (\"evidence-based\")\n- [Code section 10](../code/section-10.md) \u2014 **6.11** (\"record keeping\")\n- [Code section 16](../code/section-16.md) \u2014 **6.11** (\"public protection\"), **6.2** (\"public protection\")\n- [Code section 17](../code/section-17.md) \u2014 **6.12** (\"safeguarding\")\n- [Code section 19](../code/section-19.md) \u2014 **6.6** (\"near misses\")\n- [Code section 20](../code/section-20.md) \u2014 **6.4** (\"role model\")\n- [Code section 23](../code/section-23.md) \u2014 **6.10** (\"audit\"), **6.8** (\"audit\")\n\n## Skills required\nDemonstrated through [Annexe A](../annexes/annexe-a.md) (communication and relationship management skills) and [Annexe B](../annexes/annexe-b.md) (nursing procedures) \u2014 see proficiency 1.20.\n\n## Assessment\nAchievement is assessed in practice under the [Standards for Student Supervision and Assessment](../sssa/index.md).\n",
           "description": "The 12 proficiency statements of Future Nurse platform 6 \u2014 Improving safety and quality of care.",
           "id": "platforms/platform-6.md",
           "resource": "",
@@ -2522,7 +2847,7 @@
           "aliases": [
             "platform 7"
           ],
-          "body": "# Platform 7: Coordinating care\n\nAt the point of registration, the registered nurse will be able to:\n\n- **7.1** Understand and apply the principles of partnership, collaboration and interagency working across all relevant sectors\n- **7.2** Understand health legislation and current health and social care policies, and the mechanisms involved in influencing policy development and change, appreciating the impact of policy on practice\n- **7.3** Understand and apply the principles of human factors, environmental factors and systems failures to identify and reduce the risk of clinical error\n- **7.4** Prioritise the needs of groups of people and manage resources effectively and safely\n- **7.5** Understand and apply the principles of delivering care across multiple agencies and when transferring care between different settings\n- **7.6** Demonstrate the ability to effectively coordinate care in complex or emergency nursing situations\n- **7.7** Demonstrate understanding and apply the principles of health informatics and digital technology to deliver and coordinate care and to understand the needs of people\n- **7.8** Understand the principles of health economics, including the role of clinical effectiveness, efficiency and the ethical allocation of resources\n- **7.9** Work collaboratively with all members of the multidisciplinary team, and across all settings, to support the coordinated delivery of person-centred care\n- **7.10** Understand the challenge of providing effective nursing care for people with complex co-morbidities and respond to this by coordinating care effectively\n- **7.11** Demonstrate the ability to identify and manage risks and concerns in relation to the care of people across all care settings\n- **7.12** Demonstrate knowledge of the roles of other health and care professionals and the contribution they make to providing coordinated care across all settings\n- **7.13** Demonstrate an understanding of the complexities of providing mental health, learning disability and children's nursing care in a range of integrated settings\n\n## Related Code sections\n- [Code section 3](../code/section-03.md)\n- [Code section 7](../code/section-07.md)\n- [Code section 8](../code/section-08.md)\n- [Code section 13](../code/section-13.md)\n- [Code section 25](../code/section-25.md)\n\n## Assessment\nAchievement is assessed in practice under the [Standards for Student Supervision and Assessment](../sssa/index.md).\n",
+          "body": "# Platform 7: Coordinating care\n\nAt the point of registration, the registered nurse will be able to:\n\n- **7.1** Understand and apply the principles of partnership, collaboration and interagency working across all relevant sectors\n- **7.2** Understand health legislation and current health and social care policies, and the mechanisms involved in influencing policy development and change, appreciating the impact of policy on practice\n- **7.3** Understand and apply the principles of human factors, environmental factors and systems failures to identify and reduce the risk of clinical error\n- **7.4** Prioritise the needs of groups of people and manage resources effectively and safely\n- **7.5** Understand and apply the principles of delivering care across multiple agencies and when transferring care between different settings\n- **7.6** Demonstrate the ability to effectively coordinate care in complex or emergency nursing situations\n- **7.7** Demonstrate understanding and apply the principles of health informatics and digital technology to deliver and coordinate care and to understand the needs of people\n- **7.8** Understand the principles of health economics, including the role of clinical effectiveness, efficiency and the ethical allocation of resources\n- **7.9** Work collaboratively with all members of the multidisciplinary team, and across all settings, to support the coordinated delivery of person-centred care\n- **7.10** Understand the challenge of providing effective nursing care for people with complex co-morbidities and respond to this by coordinating care effectively\n- **7.11** Demonstrate the ability to identify and manage risks and concerns in relation to the care of people across all care settings\n- **7.12** Demonstrate knowledge of the roles of other health and care professionals and the contribution they make to providing coordinated care across all settings\n- **7.13** Demonstrate an understanding of the complexities of providing mental health, learning disability and children's nursing care in a range of integrated settings\n\n## Textual cross-references (Code sections)\nNot an official NMC crosswalk \u2014 computed by matching shared wording between proficiency statement text and Code section text. See [methodology](../index.md#how-the-code-crossreference-works).\n- [Code section 15](../code/section-15.md) \u2014 **7.6** (\"emergency\")\n- [Code section 19](../code/section-19.md) \u2014 **7.3** (\"human factors\")\n\n## Skills required\nDemonstrated through [Annexe A](../annexes/annexe-a.md) (communication and relationship management skills) and [Annexe B](../annexes/annexe-b.md) (nursing procedures) \u2014 see proficiency 1.20.\n\n## Assessment\nAchievement is assessed in practice under the [Standards for Student Supervision and Assessment](../sssa/index.md).\n",
           "description": "The 13 proficiency statements of Future Nurse platform 7 \u2014 Coordinating care.",
           "id": "platforms/platform-7.md",
           "resource": "",
@@ -2625,6 +2950,114 @@
         }
       },
       "relationships": [
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "annexes/annexe-a.md",
+          "target": "code/section-07.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "annexes/annexe-a.md",
+          "target": "code/section-10.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "annexes/annexe-a.md",
+          "target": "code/section-11.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "annexes/annexe-a.md",
+          "target": "code/section-14.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "annexes/annexe-a.md",
+          "target": "platforms/index.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "annexes/annexe-a.md",
+          "target": "platforms/platform-1.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "annexes/annexe-b.md",
+          "target": "code/section-01.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "annexes/annexe-b.md",
+          "target": "code/section-05.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "annexes/annexe-b.md",
+          "target": "code/section-17.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "annexes/annexe-b.md",
+          "target": "code/section-18.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "annexes/annexe-b.md",
+          "target": "code/section-19.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "annexes/annexe-b.md",
+          "target": "platforms/index.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "annexes/annexe-b.md",
+          "target": "platforms/platform-1.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "annexes/annexe-b.md",
+          "target": "platforms/platform-4.md"
+        },
+        {
+          "kind": "lists",
+          "label": "lists",
+          "source": "annexes/index.md",
+          "target": "annexes/annexe-a.md"
+        },
+        {
+          "kind": "lists",
+          "label": "lists",
+          "source": "annexes/index.md",
+          "target": "annexes/annexe-b.md"
+        },
+        {
+          "kind": "lists",
+          "label": "lists",
+          "source": "annexes/index.md",
+          "target": "index.md"
+        },
+        {
+          "kind": "lists",
+          "label": "lists",
+          "source": "annexes/index.md",
+          "target": "platforms/index.md"
+        },
         {
           "kind": "lists",
           "label": "lists",
@@ -2818,14 +3251,14 @@
           "target": "glossary/person-centred-care.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
           "source": "code/section-01.md",
-          "target": "platforms/platform-1.md"
+          "target": "index.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-01.md",
           "target": "platforms/platform-4.md"
         },
@@ -2842,20 +3275,14 @@
           "target": "glossary/person-centred-care.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
           "source": "code/section-02.md",
-          "target": "platforms/platform-2.md"
+          "target": "index.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
-          "source": "code/section-02.md",
-          "target": "platforms/platform-3.md"
-        },
-        {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-02.md",
           "target": "platforms/platform-4.md"
         },
@@ -2866,44 +3293,20 @@
           "target": "code/theme-1-prioritise-people.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
-          "source": "code/section-03.md",
-          "target": "platforms/platform-2.md"
-        },
-        {
-          "kind": "assessed through",
-          "label": "assessed through",
-          "source": "code/section-03.md",
-          "target": "platforms/platform-3.md"
-        },
-        {
-          "kind": "assessed through",
-          "label": "assessed through",
-          "source": "code/section-03.md",
-          "target": "platforms/platform-4.md"
-        },
-        {
-          "kind": "assessed through",
-          "label": "assessed through",
-          "source": "code/section-03.md",
-          "target": "platforms/platform-7.md"
-        },
-        {
           "kind": "related",
           "label": "related",
           "source": "code/section-04.md",
           "target": "code/theme-1-prioritise-people.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
           "source": "code/section-04.md",
-          "target": "platforms/platform-1.md"
+          "target": "index.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-04.md",
           "target": "platforms/platform-3.md"
         },
@@ -2926,46 +3329,58 @@
           "target": "glossary/evidence-based-practice.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
+          "source": "code/section-06.md",
+          "target": "index.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-06.md",
           "target": "platforms/platform-1.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
+          "source": "code/section-06.md",
+          "target": "platforms/platform-3.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-06.md",
           "target": "platforms/platform-4.md"
         },
         {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
+          "source": "code/section-06.md",
+          "target": "platforms/platform-6.md"
+        },
+        {
           "kind": "related",
           "label": "related",
           "source": "code/section-07.md",
           "target": "code/theme-2-practise-effectively.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
           "source": "code/section-07.md",
-          "target": "platforms/platform-7.md"
+          "target": "index.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
+          "source": "code/section-07.md",
+          "target": "platforms/platform-2.md"
         },
         {
           "kind": "related",
           "label": "related",
           "source": "code/section-08.md",
           "target": "code/theme-2-practise-effectively.md"
-        },
-        {
-          "kind": "assessed through",
-          "label": "assessed through",
-          "source": "code/section-08.md",
-          "target": "platforms/platform-5.md"
-        },
-        {
-          "kind": "assessed through",
-          "label": "assessed through",
-          "source": "code/section-08.md",
-          "target": "platforms/platform-7.md"
         },
         {
           "kind": "related",
@@ -2974,8 +3389,14 @@
           "target": "code/theme-2-practise-effectively.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
+          "source": "code/section-09.md",
+          "target": "index.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-09.md",
           "target": "platforms/platform-5.md"
         },
@@ -2986,16 +3407,22 @@
           "target": "code/theme-2-practise-effectively.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
+          "source": "code/section-10.md",
+          "target": "index.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-10.md",
           "target": "platforms/platform-1.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-10.md",
-          "target": "platforms/platform-3.md"
+          "target": "platforms/platform-6.md"
         },
         {
           "kind": "related",
@@ -3010,8 +3437,14 @@
           "target": "glossary/delegation.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
+          "source": "code/section-11.md",
+          "target": "index.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-11.md",
           "target": "platforms/platform-5.md"
         },
@@ -3028,22 +3461,16 @@
           "target": "code/theme-3-preserve-safety.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
           "source": "code/section-13.md",
-          "target": "platforms/platform-1.md"
+          "target": "index.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-13.md",
           "target": "platforms/platform-3.md"
-        },
-        {
-          "kind": "assessed through",
-          "label": "assessed through",
-          "source": "code/section-13.md",
-          "target": "platforms/platform-7.md"
         },
         {
           "kind": "related",
@@ -3058,22 +3485,34 @@
           "target": "glossary/duty-of-candour.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
           "source": "code/section-14.md",
-          "target": "platforms/platform-1.md"
+          "target": "index.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-14.md",
-          "target": "platforms/platform-6.md"
+          "target": "platforms/platform-1.md"
         },
         {
           "kind": "related",
           "label": "related",
           "source": "code/section-15.md",
           "target": "code/theme-3-preserve-safety.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "code/section-15.md",
+          "target": "index.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
+          "source": "code/section-15.md",
+          "target": "platforms/platform-7.md"
         },
         {
           "kind": "related",
@@ -3088,14 +3527,20 @@
           "target": "glossary/raising-concerns.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
           "source": "code/section-16.md",
-          "target": "platforms/platform-1.md"
+          "target": "index.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
+          "source": "code/section-16.md",
+          "target": "platforms/platform-4.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-16.md",
           "target": "platforms/platform-6.md"
         },
@@ -3112,14 +3557,26 @@
           "target": "glossary/safeguarding.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
+          "source": "code/section-17.md",
+          "target": "index.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-17.md",
           "target": "platforms/platform-3.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
+          "source": "code/section-17.md",
+          "target": "platforms/platform-4.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-17.md",
           "target": "platforms/platform-6.md"
         },
@@ -3130,8 +3587,14 @@
           "target": "code/theme-3-preserve-safety.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
+          "source": "code/section-18.md",
+          "target": "index.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-18.md",
           "target": "platforms/platform-4.md"
         },
@@ -3142,22 +3605,34 @@
           "target": "code/theme-3-preserve-safety.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
+          "source": "code/section-19.md",
+          "target": "index.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-19.md",
           "target": "platforms/platform-2.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-19.md",
-          "target": "platforms/platform-4.md"
+          "target": "platforms/platform-5.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-19.md",
           "target": "platforms/platform-6.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
+          "source": "code/section-19.md",
+          "target": "platforms/platform-7.md"
         },
         {
           "kind": "related",
@@ -3166,10 +3641,22 @@
           "target": "code/theme-4-promote-professionalism-and-trust.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
           "source": "code/section-20.md",
-          "target": "platforms/platform-1.md"
+          "target": "index.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
+          "source": "code/section-20.md",
+          "target": "platforms/platform-4.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
+          "source": "code/section-20.md",
+          "target": "platforms/platform-6.md"
         },
         {
           "kind": "related",
@@ -3190,8 +3677,14 @@
           "target": "glossary/revalidation.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
+          "source": "code/section-22.md",
+          "target": "index.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-22.md",
           "target": "platforms/platform-1.md"
         },
@@ -3208,8 +3701,14 @@
           "target": "glossary/fitness-to-practise.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
+          "source": "code/section-23.md",
+          "target": "index.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-23.md",
           "target": "platforms/platform-6.md"
         },
@@ -3220,28 +3719,22 @@
           "target": "code/theme-4-promote-professionalism-and-trust.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
-          "source": "code/section-24.md",
-          "target": "platforms/platform-6.md"
-        },
-        {
           "kind": "related",
           "label": "related",
           "source": "code/section-25.md",
           "target": "code/theme-4-promote-professionalism-and-trust.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "links to",
+          "label": "links to",
           "source": "code/section-25.md",
-          "target": "platforms/platform-5.md"
+          "target": "index.md"
         },
         {
-          "kind": "assessed through",
-          "label": "assessed through",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "code/section-25.md",
-          "target": "platforms/platform-7.md"
+          "target": "platforms/platform-5.md"
         },
         {
           "kind": "related",
@@ -3625,6 +4118,18 @@
           "kind": "lists",
           "label": "lists",
           "source": "index.md",
+          "target": "annexes/annexe-a.md"
+        },
+        {
+          "kind": "lists",
+          "label": "lists",
+          "source": "index.md",
+          "target": "annexes/annexe-b.md"
+        },
+        {
+          "kind": "lists",
+          "label": "lists",
+          "source": "index.md",
           "target": "code/index.md"
         },
         {
@@ -3644,6 +4149,18 @@
           "label": "lists",
           "source": "index.md",
           "target": "sssa/index.md"
+        },
+        {
+          "kind": "lists",
+          "label": "lists",
+          "source": "platforms/index.md",
+          "target": "annexes/annexe-a.md"
+        },
+        {
+          "kind": "lists",
+          "label": "lists",
+          "source": "platforms/index.md",
+          "target": "annexes/annexe-b.md"
         },
         {
           "kind": "lists",
@@ -3706,56 +4223,38 @@
           "target": "sssa/index.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "requires skills in",
+          "label": "requires skills in",
           "source": "platforms/platform-1.md",
-          "target": "code/section-01.md"
+          "target": "annexes/annexe-a.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "requires skills in",
+          "label": "requires skills in",
           "source": "platforms/platform-1.md",
-          "target": "code/section-04.md"
+          "target": "annexes/annexe-b.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-1.md",
           "target": "code/section-06.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-1.md",
           "target": "code/section-10.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
-          "source": "platforms/platform-1.md",
-          "target": "code/section-13.md"
-        },
-        {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-1.md",
           "target": "code/section-14.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
-          "source": "platforms/platform-1.md",
-          "target": "code/section-16.md"
-        },
-        {
-          "kind": "maps to Code",
-          "label": "maps to Code",
-          "source": "platforms/platform-1.md",
-          "target": "code/section-20.md"
-        },
-        {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-1.md",
           "target": "code/section-22.md"
         },
@@ -3763,25 +4262,43 @@
           "kind": "links to",
           "label": "links to",
           "source": "platforms/platform-1.md",
+          "target": "index.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "platforms/platform-1.md",
           "target": "sssa/index.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "requires skills in",
+          "label": "requires skills in",
           "source": "platforms/platform-2.md",
-          "target": "code/section-02.md"
+          "target": "annexes/annexe-a.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "requires skills in",
+          "label": "requires skills in",
           "source": "platforms/platform-2.md",
-          "target": "code/section-03.md"
+          "target": "annexes/annexe-b.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
+          "source": "platforms/platform-2.md",
+          "target": "code/section-07.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-2.md",
           "target": "code/section-19.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "platforms/platform-2.md",
+          "target": "index.md"
         },
         {
           "kind": "links to",
@@ -3790,40 +4307,46 @@
           "target": "sssa/index.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "requires skills in",
+          "label": "requires skills in",
           "source": "platforms/platform-3.md",
-          "target": "code/section-02.md"
+          "target": "annexes/annexe-a.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "requires skills in",
+          "label": "requires skills in",
           "source": "platforms/platform-3.md",
-          "target": "code/section-03.md"
+          "target": "annexes/annexe-b.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-3.md",
           "target": "code/section-04.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-3.md",
-          "target": "code/section-10.md"
+          "target": "code/section-06.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-3.md",
           "target": "code/section-13.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-3.md",
           "target": "code/section-17.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "platforms/platform-3.md",
+          "target": "index.md"
         },
         {
           "kind": "links to",
@@ -3832,40 +4355,64 @@
           "target": "sssa/index.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "requires skills in",
+          "label": "requires skills in",
+          "source": "platforms/platform-4.md",
+          "target": "annexes/annexe-a.md"
+        },
+        {
+          "kind": "requires skills in",
+          "label": "requires skills in",
+          "source": "platforms/platform-4.md",
+          "target": "annexes/annexe-b.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-4.md",
           "target": "code/section-01.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-4.md",
           "target": "code/section-02.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
-          "source": "platforms/platform-4.md",
-          "target": "code/section-03.md"
-        },
-        {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-4.md",
           "target": "code/section-06.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
+          "source": "platforms/platform-4.md",
+          "target": "code/section-16.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
+          "source": "platforms/platform-4.md",
+          "target": "code/section-17.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-4.md",
           "target": "code/section-18.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-4.md",
-          "target": "code/section-19.md"
+          "target": "code/section-20.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "platforms/platform-4.md",
+          "target": "index.md"
         },
         {
           "kind": "links to",
@@ -3874,28 +4421,46 @@
           "target": "sssa/index.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "requires skills in",
+          "label": "requires skills in",
           "source": "platforms/platform-5.md",
-          "target": "code/section-08.md"
+          "target": "annexes/annexe-a.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "requires skills in",
+          "label": "requires skills in",
+          "source": "platforms/platform-5.md",
+          "target": "annexes/annexe-b.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-5.md",
           "target": "code/section-09.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-5.md",
           "target": "code/section-11.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
+          "source": "platforms/platform-5.md",
+          "target": "code/section-19.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-5.md",
           "target": "code/section-25.md"
+        },
+        {
+          "kind": "links to",
+          "label": "links to",
+          "source": "platforms/platform-5.md",
+          "target": "index.md"
         },
         {
           "kind": "links to",
@@ -3904,40 +4469,64 @@
           "target": "sssa/index.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "requires skills in",
+          "label": "requires skills in",
           "source": "platforms/platform-6.md",
-          "target": "code/section-14.md"
+          "target": "annexes/annexe-a.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "requires skills in",
+          "label": "requires skills in",
+          "source": "platforms/platform-6.md",
+          "target": "annexes/annexe-b.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
+          "source": "platforms/platform-6.md",
+          "target": "code/section-06.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
+          "source": "platforms/platform-6.md",
+          "target": "code/section-10.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-6.md",
           "target": "code/section-16.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-6.md",
           "target": "code/section-17.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-6.md",
           "target": "code/section-19.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
+          "source": "platforms/platform-6.md",
+          "target": "code/section-20.md"
+        },
+        {
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-6.md",
           "target": "code/section-23.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "links to",
+          "label": "links to",
           "source": "platforms/platform-6.md",
-          "target": "code/section-24.md"
+          "target": "index.md"
         },
         {
           "kind": "links to",
@@ -3946,34 +4535,34 @@
           "target": "sssa/index.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "requires skills in",
+          "label": "requires skills in",
           "source": "platforms/platform-7.md",
-          "target": "code/section-03.md"
+          "target": "annexes/annexe-a.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "requires skills in",
+          "label": "requires skills in",
           "source": "platforms/platform-7.md",
-          "target": "code/section-07.md"
+          "target": "annexes/annexe-b.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-7.md",
-          "target": "code/section-08.md"
+          "target": "code/section-15.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "textual cross-reference",
+          "label": "textual cross-reference",
           "source": "platforms/platform-7.md",
-          "target": "code/section-13.md"
+          "target": "code/section-19.md"
         },
         {
-          "kind": "maps to Code",
-          "label": "maps to Code",
+          "kind": "links to",
+          "label": "links to",
           "source": "platforms/platform-7.md",
-          "target": "code/section-25.md"
+          "target": "index.md"
         },
         {
           "kind": "links to",
@@ -4137,11 +4726,12 @@
         "root",
         "code",
         "platforms",
+        "annexes",
         "sssa",
         "glossary"
       ],
       "source_root": ".",
-      "subtitle": "The NMC Code, the Future Nurse proficiency platforms, and the SSSA as one cross-linked knowledge graph.",
+      "subtitle": "The NMC Code, the Future Nurse proficiency platforms and annexes, and the SSSA as one cross-linked knowledge graph.",
       "title": "Open Nursing Knowledge Explorer"
     }
   },

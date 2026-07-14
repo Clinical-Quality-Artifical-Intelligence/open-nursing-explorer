@@ -19,9 +19,9 @@ Theme: [Prioritise People](theme-1-prioritise-people.md)
 - **1.4** Make sure that any treatment, assistance or care is delivered without undue delay
 - **1.5** Respect and uphold people's human rights
 
-## Assessed through
-- [Platform 1: Being an accountable professional](../platforms/platform-1.md)
-- [Platform 4: Providing and evaluating care](../platforms/platform-4.md)
+## Textual cross-references (proficiency statements)
+Not an official NMC crosswalk — computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).
+- [Platform 4: Providing and evaluating care](../platforms/platform-4.md) — **4.1** ("dignity")
 
 ## Key concepts
 - [Person-centred care](../glossary/person-centred-care.md)

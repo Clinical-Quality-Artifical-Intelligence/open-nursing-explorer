@@ -20,7 +20,3 @@ Theme: [Practise Effectively](theme-2-practise-effectively.md)
 - **8.5** Work with colleagues to preserve the safety of those receiving care
 - **8.6** Share information to identify and reduce risk
 - **8.7** Be supportive of colleagues encountering health or performance problems
-
-## Assessed through
-- [Platform 5: Leading and managing nursing care and working in teams](../platforms/platform-5.md)
-- [Platform 7: Coordinating care](../platforms/platform-7.md)

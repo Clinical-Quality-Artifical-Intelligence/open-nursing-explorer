@@ -20,10 +20,9 @@ Theme: [Prioritise People](theme-1-prioritise-people.md)
 - **2.5** Respect, support and document a person's right to accept or refuse care and treatment
 - **2.6** Recognise when people are anxious or in distress and respond compassionately and politely
 
-## Assessed through
-- [Platform 2: Promoting health and preventing ill health](../platforms/platform-2.md)
-- [Platform 3: Assessing needs and planning care](../platforms/platform-3.md)
-- [Platform 4: Providing and evaluating care](../platforms/platform-4.md)
+## Textual cross-references (proficiency statements)
+Not an official NMC crosswalk — computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).
+- [Platform 4: Providing and evaluating care](../platforms/platform-4.md) — **4.2** ("shared decision")
 
 ## Key concepts
 - [Person-centred care](../glossary/person-centred-care.md)

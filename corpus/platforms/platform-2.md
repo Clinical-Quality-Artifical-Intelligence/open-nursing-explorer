@@ -24,10 +24,13 @@ At the point of registration, the registered nurse will be able to:
 - **2.11** Promote health and prevent ill health by understanding and explaining to people the principles of pathogenesis, immunology and the evidence-base for immunisation, vaccination and herd immunity
 - **2.12** Protect health through understanding and applying the principles of infection prevention and control, including communicable disease surveillance and antimicrobial stewardship and resistance
 
-## Related Code sections
-- [Code section 2](../code/section-02.md)
-- [Code section 3](../code/section-03.md)
-- [Code section 19](../code/section-19.md)
+## Textual cross-references (Code sections)
+Not an official NMC crosswalk — computed by matching shared wording between proficiency statement text and Code section text. See [methodology](../index.md#how-the-code-crossreference-works).
+- [Code section 7](../code/section-07.md) — **2.9** ("communication skills")
+- [Code section 19](../code/section-19.md) — **2.12** ("infection prevention and control")
+
+## Skills required
+Demonstrated through [Annexe A](../annexes/annexe-a.md) (communication and relationship management skills) and [Annexe B](../annexes/annexe-b.md) (nursing procedures) — see proficiency 1.20.
 
 ## Assessment
 Achievement is assessed in practice under the [Standards for Student Supervision and Assessment](../sssa/index.md).

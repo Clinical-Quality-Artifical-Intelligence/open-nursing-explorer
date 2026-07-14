@@ -19,5 +19,6 @@ Theme: [Preserve Safety](theme-3-preserve-safety.md)
 - **18.4** Take all steps to keep medicines stored securely
 - **18.5** Wherever possible, avoid prescribing for yourself or close personal relationships
 
-## Assessed through
-- [Platform 4: Providing and evaluating care](../platforms/platform-4.md)
+## Textual cross-references (proficiency statements)
+Not an official NMC crosswalk — computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).
+- [Platform 4: Providing and evaluating care](../platforms/platform-4.md) — **4.13** ("medicines"), **4.14** ("medicines"), **4.15** ("medicines")

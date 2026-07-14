@@ -18,6 +18,6 @@ Theme: [Prioritise People](theme-1-prioritise-people.md)
 - **4.3** Keep to all relevant laws about mental capacity
 - **4.4** Tell colleagues if you have a conscientious objection and arrange alternative care
 
-## Assessed through
-- [Platform 1: Being an accountable professional](../platforms/platform-1.md)
-- [Platform 3: Assessing needs and planning care](../platforms/platform-3.md)
+## Textual cross-references (proficiency statements)
+Not an official NMC crosswalk — computed by matching shared wording between this Code section and proficiency statement text. See [methodology](../index.md#how-the-code-crossreference-works).
+- [Platform 3: Assessing needs and planning care](../platforms/platform-3.md) — **3.6** ("consent"), **3.8** ("mental capacity")

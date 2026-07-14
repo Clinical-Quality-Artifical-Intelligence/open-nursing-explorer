@@ -25,12 +25,13 @@ At the point of registration, the registered nurse will be able to:
 - **7.12** Demonstrate knowledge of the roles of other health and care professionals and the contribution they make to providing coordinated care across all settings
 - **7.13** Demonstrate an understanding of the complexities of providing mental health, learning disability and children's nursing care in a range of integrated settings
 
-## Related Code sections
-- [Code section 3](../code/section-03.md)
-- [Code section 7](../code/section-07.md)
-- [Code section 8](../code/section-08.md)
-- [Code section 13](../code/section-13.md)
-- [Code section 25](../code/section-25.md)
+## Textual cross-references (Code sections)
+Not an official NMC crosswalk — computed by matching shared wording between proficiency statement text and Code section text. See [methodology](../index.md#how-the-code-crossreference-works).
+- [Code section 15](../code/section-15.md) — **7.6** ("emergency")
+- [Code section 19](../code/section-19.md) — **7.3** ("human factors")
+
+## Skills required
+Demonstrated through [Annexe A](../annexes/annexe-a.md) (communication and relationship management skills) and [Annexe B](../annexes/annexe-b.md) (nursing procedures) — see proficiency 1.20.
 
 ## Assessment
 Achievement is assessed in practice under the [Standards for Student Supervision and Assessment](../sssa/index.md).
